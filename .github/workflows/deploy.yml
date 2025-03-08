@@ -12,8 +12,10 @@ jobs:
         run: npm install
       - name: Install slidev
         run:  npm i -g @slidev/cli
+      - name: Install for PDF  
+        run: npm i -D playwright-chromium
       - name: Build
-        run: slidev build --base /CUDA-Tutorial/ # Change this line
+        run: slidev build --base /CUDA-Tutorial/
       - name: Deploy pages
         uses: crazy-max/ghaction-github-pages@v2
         with:
