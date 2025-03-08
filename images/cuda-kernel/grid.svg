@@ -1,0 +1,527 @@
+<svg host="65bd71144e" xmlns="http://www.w3.org/2000/svg" style="background: transparent; background-color: transparent;" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="567px" height="575px" viewBox="-0.5 -0.5 567 575" content="&lt;mxfile&gt;&lt;diagram id=&quot;xEigbChfnRF27bx98eYw&quot; name=&quot;Page-1&quot;&gt;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&lt;/diagram&gt;&lt;/mxfile&gt;">
+    <defs/>
+    <g>
+        <g style="filter: drop-shadow(light-dark(rgba(0, 0, 0, 0.25), rgba(237, 237, 237, 0.25)) 2px 3px 2px);">
+            <path d="M 185.05 39.87 L 274.19 39.87" fill="none" stroke="#808080" stroke-miterlimit="10" stroke-dasharray="1 4" pointer-events="stroke" style="stroke: light-dark(rgb(128, 128, 128), rgb(127, 127, 127));"/>
+            <path d="M 277.19 39.87 L 274.19 41.37 L 274.19 38.37 Z" fill="none" stroke="#808080" stroke-miterlimit="10" pointer-events="all" style="stroke: light-dark(rgb(128, 128, 128), rgb(127, 127, 127));"/>
+        </g>
+        <g>
+            <rect x="382.28" y="16" width="30.47" height="31.19" fill="#fff2cc" stroke="#d6b656" pointer-events="all" style="fill: light-dark(rgb(255, 242, 204), rgb(40, 29, 0)); stroke: light-dark(rgb(214, 182, 86), rgb(109, 81, 0));"/>
+        </g>
+        <g>
+            <rect x="402" y="91" width="158.54" height="93.82" fill="none" stroke="none" pointer-events="all"/>
+        </g>
+        <g>
+            <g transform="translate(-0.5 -0.5)">
+                <switch>
+                    <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 157px; height: 1px; padding-top: 138px; margin-left: 403px;">
+                            <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #999999; ">
+                                <div style="display: inline-block; font-size: 21px; font-family: &quot;Helvetica&quot;; color: light-dark(#999999, #6a6a6a); line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                    CUDA
+                                    <br/>
+                                    device
+                                </div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <text x="481" y="144" fill="#999999" font-family="&quot;Helvetica&quot;" font-size="21px" text-anchor="middle">
+                        CUDA...
+                    </text>
+                </switch>
+            </g>
+        </g>
+        <g>
+            <rect x="412.75" y="16" width="30.47" height="31.19" fill="#fff2cc" stroke="#d6b656" pointer-events="all" style="fill: light-dark(rgb(255, 242, 204), rgb(40, 29, 0)); stroke: light-dark(rgb(214, 182, 86), rgb(109, 81, 0));"/>
+        </g>
+        <g>
+            <rect x="443.22" y="16" width="30.47" height="31.19" fill="#fff2cc" stroke="#d6b656" pointer-events="all" style="fill: light-dark(rgb(255, 242, 204), rgb(40, 29, 0)); stroke: light-dark(rgb(214, 182, 86), rgb(109, 81, 0));"/>
+        </g>
+        <g>
+            <rect x="473.69" y="16" width="30.47" height="31.19" fill="#fff2cc" stroke="#d6b656" pointer-events="all" style="fill: light-dark(rgb(255, 242, 204), rgb(40, 29, 0)); stroke: light-dark(rgb(214, 182, 86), rgb(109, 81, 0));"/>
+        </g>
+        <g>
+            <rect x="504.16" y="16" width="30.47" height="31.19" fill="#fff2cc" stroke="#d6b656" pointer-events="all" style="fill: light-dark(rgb(255, 242, 204), rgb(40, 29, 0)); stroke: light-dark(rgb(214, 182, 86), rgb(109, 81, 0));"/>
+        </g>
+        <g>
+            <rect x="534.63" y="16" width="30.47" height="31.19" fill="#fff2cc" stroke="#d6b656" pointer-events="all" style="fill: light-dark(rgb(255, 242, 204), rgb(40, 29, 0)); stroke: light-dark(rgb(214, 182, 86), rgb(109, 81, 0));"/>
+        </g>
+        <g/>
+        <g style="filter: drop-shadow(light-dark(rgba(0, 0, 0, 0.25), rgba(237, 237, 237, 0.25)) 2px 3px 2px);">
+            <path d="M 160.51 10 Q 160.51 10 160.51 174.22" fill="none" stroke="#808080" stroke-miterlimit="10" pointer-events="stroke" style="stroke: light-dark(rgb(128, 128, 128), rgb(127, 127, 127));"/>
+            <path d="M 160.51 179.47 L 157.01 172.47 L 160.51 174.22 L 164.01 172.47 Z" fill="#808080" stroke="#808080" stroke-miterlimit="10" pointer-events="all" style="fill: light-dark(rgb(128, 128, 128), rgb(127, 127, 127)); stroke: light-dark(rgb(128, 128, 128), rgb(127, 127, 127));"/>
+        </g>
+        <g style="filter: drop-shadow(light-dark(rgba(0, 0, 0, 0.25), rgba(237, 237, 237, 0.25)) 2px 3px 2px);">
+            <path d="M 150 10 Q 150 10 150 174.22" fill="none" stroke="#808080" stroke-miterlimit="10" pointer-events="stroke" style="stroke: light-dark(rgb(128, 128, 128), rgb(127, 127, 127));"/>
+            <path d="M 150 179.47 L 146.5 172.47 L 150 174.22 L 153.5 172.47 Z" fill="#808080" stroke="#808080" stroke-miterlimit="10" pointer-events="all" style="fill: light-dark(rgb(128, 128, 128), rgb(127, 127, 127)); stroke: light-dark(rgb(128, 128, 128), rgb(127, 127, 127));"/>
+        </g>
+        <g style="filter: drop-shadow(light-dark(rgba(0, 0, 0, 0.25), rgba(237, 237, 237, 0.25)) 2px 3px 2px);">
+            <path d="M 140.51 10 Q 140.51 10 140.51 174.22" fill="none" stroke="#808080" stroke-miterlimit="10" pointer-events="stroke" style="stroke: light-dark(rgb(128, 128, 128), rgb(127, 127, 127));"/>
+            <path d="M 140.51 179.47 L 137.01 172.47 L 140.51 174.22 L 144.01 172.47 Z" fill="#808080" stroke="#808080" stroke-miterlimit="10" pointer-events="all" style="fill: light-dark(rgb(128, 128, 128), rgb(127, 127, 127)); stroke: light-dark(rgb(128, 128, 128), rgb(127, 127, 127));"/>
+        </g>
+        <g style="filter: drop-shadow(light-dark(rgba(0, 0, 0, 0.25), rgba(237, 237, 237, 0.25)) 2px 3px 2px);">
+            <path d="M 130 10 Q 130 10 130 174.22" fill="none" stroke="#808080" stroke-miterlimit="10" pointer-events="stroke" style="stroke: light-dark(rgb(128, 128, 128), rgb(127, 127, 127));"/>
+            <path d="M 130 179.47 L 126.5 172.47 L 130 174.22 L 133.5 172.47 Z" fill="#808080" stroke="#808080" stroke-miterlimit="10" pointer-events="all" style="fill: light-dark(rgb(128, 128, 128), rgb(127, 127, 127)); stroke: light-dark(rgb(128, 128, 128), rgb(127, 127, 127));"/>
+        </g>
+        <g style="filter: drop-shadow(light-dark(rgba(0, 0, 0, 0.25), rgba(237, 237, 237, 0.25)) 2px 3px 2px);">
+            <path d="M 120.51 10 Q 120.51 10 120.51 174.22" fill="none" stroke="#808080" stroke-miterlimit="10" pointer-events="stroke" style="stroke: light-dark(rgb(128, 128, 128), rgb(127, 127, 127));"/>
+            <path d="M 120.51 179.47 L 117.01 172.47 L 120.51 174.22 L 124.01 172.47 Z" fill="#808080" stroke="#808080" stroke-miterlimit="10" pointer-events="all" style="fill: light-dark(rgb(128, 128, 128), rgb(127, 127, 127)); stroke: light-dark(rgb(128, 128, 128), rgb(127, 127, 127));"/>
+        </g>
+        <g style="filter: drop-shadow(light-dark(rgba(0, 0, 0, 0.25), rgba(237, 237, 237, 0.25)) 2px 3px 2px);">
+            <path d="M 110 10 Q 110 10 110 174.22" fill="none" stroke="#999999" stroke-miterlimit="10" pointer-events="stroke" style="stroke: light-dark(rgb(153, 153, 153), rgb(106, 106, 106));"/>
+            <path d="M 110 179.47 L 106.5 172.47 L 110 174.22 L 113.5 172.47 Z" fill="#999999" stroke="#999999" stroke-miterlimit="10" pointer-events="all" style="fill: light-dark(rgb(153, 153, 153), rgb(106, 106, 106)); stroke: light-dark(rgb(153, 153, 153), rgb(106, 106, 106));"/>
+        </g>
+        <g style="filter: drop-shadow(light-dark(rgba(0, 0, 0, 0.25), rgba(237, 237, 237, 0.25)) 2px 3px 2px);">
+            <path d="M 100.51 10 Q 100.51 10 100.51 174.22" fill="none" stroke="#808080" stroke-miterlimit="10" pointer-events="stroke" style="stroke: light-dark(rgb(128, 128, 128), rgb(127, 127, 127));"/>
+            <path d="M 100.51 179.47 L 97.01 172.47 L 100.51 174.22 L 104.01 172.47 Z" fill="#808080" stroke="#808080" stroke-miterlimit="10" pointer-events="all" style="fill: light-dark(rgb(128, 128, 128), rgb(127, 127, 127)); stroke: light-dark(rgb(128, 128, 128), rgb(127, 127, 127));"/>
+        </g>
+        <g style="filter: drop-shadow(light-dark(rgba(0, 0, 0, 0.25), rgba(237, 237, 237, 0.25)) 2px 3px 2px);">
+            <path d="M 90 10 Q 90 10 90 174.22" fill="none" stroke="#808080" stroke-miterlimit="10" pointer-events="stroke" style="stroke: light-dark(rgb(128, 128, 128), rgb(127, 127, 127));"/>
+            <path d="M 90 179.47 L 86.5 172.47 L 90 174.22 L 93.5 172.47 Z" fill="#808080" stroke="#808080" stroke-miterlimit="10" pointer-events="all" style="fill: light-dark(rgb(128, 128, 128), rgb(127, 127, 127)); stroke: light-dark(rgb(128, 128, 128), rgb(127, 127, 127));"/>
+        </g>
+        <g style="filter: drop-shadow(light-dark(rgba(0, 0, 0, 0.25), rgba(237, 237, 237, 0.25)) 2px 3px 2px);">
+            <path d="M 80.51 10 Q 80.51 10 80.51 174.22" fill="none" stroke="#808080" stroke-miterlimit="10" pointer-events="stroke" style="stroke: light-dark(rgb(128, 128, 128), rgb(127, 127, 127));"/>
+            <path d="M 80.51 179.47 L 77.01 172.47 L 80.51 174.22 L 84.01 172.47 Z" fill="#808080" stroke="#808080" stroke-miterlimit="10" pointer-events="all" style="fill: light-dark(rgb(128, 128, 128), rgb(127, 127, 127)); stroke: light-dark(rgb(128, 128, 128), rgb(127, 127, 127));"/>
+        </g>
+        <g style="filter: drop-shadow(light-dark(rgba(0, 0, 0, 0.25), rgba(237, 237, 237, 0.25)) 2px 3px 2px);">
+            <path d="M 70 10 Q 70 10 70 174.22" fill="none" stroke="#808080" stroke-miterlimit="10" pointer-events="stroke" style="stroke: light-dark(rgb(128, 128, 128), rgb(127, 127, 127));"/>
+            <path d="M 70 179.47 L 66.5 172.47 L 70 174.22 L 73.5 172.47 Z" fill="#808080" stroke="#808080" stroke-miterlimit="10" pointer-events="all" style="fill: light-dark(rgb(128, 128, 128), rgb(127, 127, 127)); stroke: light-dark(rgb(128, 128, 128), rgb(127, 127, 127));"/>
+        </g>
+        <g style="filter: drop-shadow(light-dark(rgba(0, 0, 0, 0.25), rgba(237, 237, 237, 0.25)) 2px 3px 2px);">
+            <path d="M 60.51 10 Q 60.51 10 60.51 174.22" fill="none" stroke="#808080" stroke-miterlimit="10" pointer-events="stroke" style="stroke: light-dark(rgb(128, 128, 128), rgb(127, 127, 127));"/>
+            <path d="M 60.51 179.47 L 57.01 172.47 L 60.51 174.22 L 64.01 172.47 Z" fill="#808080" stroke="#808080" stroke-miterlimit="10" pointer-events="all" style="fill: light-dark(rgb(128, 128, 128), rgb(127, 127, 127)); stroke: light-dark(rgb(128, 128, 128), rgb(127, 127, 127));"/>
+        </g>
+        <g style="filter: drop-shadow(light-dark(rgba(0, 0, 0, 0.25), rgba(237, 237, 237, 0.25)) 2px 3px 2px);">
+            <path d="M 50 10 Q 50 10 50 174.22" fill="none" stroke="#808080" stroke-miterlimit="10" pointer-events="stroke" style="stroke: light-dark(rgb(128, 128, 128), rgb(127, 127, 127));"/>
+            <path d="M 50 179.47 L 46.5 172.47 L 50 174.22 L 53.5 172.47 Z" fill="#808080" stroke="#808080" stroke-miterlimit="10" pointer-events="all" style="fill: light-dark(rgb(128, 128, 128), rgb(127, 127, 127)); stroke: light-dark(rgb(128, 128, 128), rgb(127, 127, 127));"/>
+        </g>
+        <g style="filter: drop-shadow(light-dark(rgba(0, 0, 0, 0.25), rgba(237, 237, 237, 0.25)) 2px 3px 2px);">
+            <path d="M 40.51 10 Q 40.51 10 40.51 174.22" fill="none" stroke="#808080" stroke-miterlimit="10" pointer-events="stroke" style="stroke: light-dark(rgb(128, 128, 128), rgb(127, 127, 127));"/>
+            <path d="M 40.51 179.47 L 37.01 172.47 L 40.51 174.22 L 44.01 172.47 Z" fill="#808080" stroke="#808080" stroke-miterlimit="10" pointer-events="all" style="fill: light-dark(rgb(128, 128, 128), rgb(127, 127, 127)); stroke: light-dark(rgb(128, 128, 128), rgb(127, 127, 127));"/>
+        </g>
+        <g style="filter: drop-shadow(light-dark(rgba(0, 0, 0, 0.25), rgba(237, 237, 237, 0.25)) 2px 3px 2px);">
+            <path d="M 30 10 Q 30 10 30 174.22" fill="none" stroke="#808080" stroke-miterlimit="10" pointer-events="stroke" style="stroke: light-dark(rgb(128, 128, 128), rgb(127, 127, 127));"/>
+            <path d="M 30 179.47 L 26.5 172.47 L 30 174.22 L 33.5 172.47 Z" fill="#808080" stroke="#808080" stroke-miterlimit="10" pointer-events="all" style="fill: light-dark(rgb(128, 128, 128), rgb(127, 127, 127)); stroke: light-dark(rgb(128, 128, 128), rgb(127, 127, 127));"/>
+        </g>
+        <g style="filter: drop-shadow(light-dark(rgba(0, 0, 0, 0.25), rgba(237, 237, 237, 0.25)) 2px 3px 2px);">
+            <path d="M 20.51 10 Q 20.51 10 20.51 174.22" fill="none" stroke="#808080" stroke-miterlimit="10" pointer-events="stroke" style="stroke: light-dark(rgb(128, 128, 128), rgb(127, 127, 127));"/>
+            <path d="M 20.51 179.47 L 17.01 172.47 L 20.51 174.22 L 24.01 172.47 Z" fill="#808080" stroke="#808080" stroke-miterlimit="10" pointer-events="all" style="fill: light-dark(rgb(128, 128, 128), rgb(127, 127, 127)); stroke: light-dark(rgb(128, 128, 128), rgb(127, 127, 127));"/>
+        </g>
+        <g style="filter: drop-shadow(light-dark(rgba(0, 0, 0, 0.25), rgba(237, 237, 237, 0.25)) 2px 3px 2px);">
+            <path d="M 10 10 Q 10 10 10 174.22" fill="none" stroke="#808080" stroke-miterlimit="10" pointer-events="stroke" style="stroke: light-dark(rgb(128, 128, 128), rgb(127, 127, 127));"/>
+            <path d="M 10 179.47 L 6.5 172.47 L 10 174.22 L 13.5 172.47 Z" fill="#808080" stroke="#808080" stroke-miterlimit="10" pointer-events="all" style="fill: light-dark(rgb(128, 128, 128), rgb(127, 127, 127)); stroke: light-dark(rgb(128, 128, 128), rgb(127, 127, 127));"/>
+        </g>
+        <g>
+            <rect x="0" y="0" width="170" height="191.19" fill="none" stroke="#000000" pointer-events="all" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g/>
+        <g style="filter: drop-shadow(light-dark(rgba(0, 0, 0, 0.25), rgba(237, 237, 237, 0.25)) 2px 3px 2px);">
+            <path d="M 330.51 10 Q 330.51 10 330.51 174.22" fill="none" stroke="#808080" stroke-miterlimit="10" pointer-events="stroke" style="stroke: light-dark(rgb(128, 128, 128), rgb(127, 127, 127));"/>
+            <path d="M 330.51 179.47 L 327.01 172.47 L 330.51 174.22 L 334.01 172.47 Z" fill="#808080" stroke="#808080" stroke-miterlimit="10" pointer-events="all" style="fill: light-dark(rgb(128, 128, 128), rgb(127, 127, 127)); stroke: light-dark(rgb(128, 128, 128), rgb(127, 127, 127));"/>
+        </g>
+        <g style="filter: drop-shadow(light-dark(rgba(0, 0, 0, 0.25), rgba(237, 237, 237, 0.25)) 2px 3px 2px);">
+            <path d="M 320 10 Q 320 10 320 174.22" fill="none" stroke="#808080" stroke-miterlimit="10" pointer-events="stroke" style="stroke: light-dark(rgb(128, 128, 128), rgb(127, 127, 127));"/>
+            <path d="M 320 179.47 L 316.5 172.47 L 320 174.22 L 323.5 172.47 Z" fill="#808080" stroke="#808080" stroke-miterlimit="10" pointer-events="all" style="fill: light-dark(rgb(128, 128, 128), rgb(127, 127, 127)); stroke: light-dark(rgb(128, 128, 128), rgb(127, 127, 127));"/>
+        </g>
+        <g style="filter: drop-shadow(light-dark(rgba(0, 0, 0, 0.25), rgba(237, 237, 237, 0.25)) 2px 3px 2px);">
+            <path d="M 310.51 10 Q 310.51 10 310.51 174.22" fill="none" stroke="#808080" stroke-miterlimit="10" pointer-events="stroke" style="stroke: light-dark(rgb(128, 128, 128), rgb(127, 127, 127));"/>
+            <path d="M 310.51 179.47 L 307.01 172.47 L 310.51 174.22 L 314.01 172.47 Z" fill="#808080" stroke="#808080" stroke-miterlimit="10" pointer-events="all" style="fill: light-dark(rgb(128, 128, 128), rgb(127, 127, 127)); stroke: light-dark(rgb(128, 128, 128), rgb(127, 127, 127));"/>
+        </g>
+        <g style="filter: drop-shadow(light-dark(rgba(0, 0, 0, 0.25), rgba(237, 237, 237, 0.25)) 2px 3px 2px);">
+            <path d="M 300 10 Q 300 10 300 174.22" fill="none" stroke="#808080" stroke-miterlimit="10" pointer-events="stroke" style="stroke: light-dark(rgb(128, 128, 128), rgb(127, 127, 127));"/>
+            <path d="M 300 179.47 L 296.5 172.47 L 300 174.22 L 303.5 172.47 Z" fill="#808080" stroke="#808080" stroke-miterlimit="10" pointer-events="all" style="fill: light-dark(rgb(128, 128, 128), rgb(127, 127, 127)); stroke: light-dark(rgb(128, 128, 128), rgb(127, 127, 127));"/>
+        </g>
+        <g style="filter: drop-shadow(light-dark(rgba(0, 0, 0, 0.25), rgba(237, 237, 237, 0.25)) 2px 3px 2px);">
+            <path d="M 290.51 10 Q 290.51 10 290.51 174.22" fill="none" stroke="#808080" stroke-miterlimit="10" pointer-events="stroke" style="stroke: light-dark(rgb(128, 128, 128), rgb(127, 127, 127));"/>
+            <path d="M 290.51 179.47 L 287.01 172.47 L 290.51 174.22 L 294.01 172.47 Z" fill="#808080" stroke="#808080" stroke-miterlimit="10" pointer-events="all" style="fill: light-dark(rgb(128, 128, 128), rgb(127, 127, 127)); stroke: light-dark(rgb(128, 128, 128), rgb(127, 127, 127));"/>
+        </g>
+        <g style="filter: drop-shadow(light-dark(rgba(0, 0, 0, 0.25), rgba(237, 237, 237, 0.25)) 2px 3px 2px);">
+            <path d="M 280 10 Q 280 10 280 174.22" fill="none" stroke="#999999" stroke-miterlimit="10" pointer-events="stroke" style="stroke: light-dark(rgb(153, 153, 153), rgb(106, 106, 106));"/>
+            <path d="M 280 179.47 L 276.5 172.47 L 280 174.22 L 283.5 172.47 Z" fill="#999999" stroke="#999999" stroke-miterlimit="10" pointer-events="all" style="fill: light-dark(rgb(153, 153, 153), rgb(106, 106, 106)); stroke: light-dark(rgb(153, 153, 153), rgb(106, 106, 106));"/>
+        </g>
+        <g style="filter: drop-shadow(light-dark(rgba(0, 0, 0, 0.25), rgba(237, 237, 237, 0.25)) 2px 3px 2px);">
+            <path d="M 270.51 10 Q 270.51 10 270.51 174.22" fill="none" stroke="#808080" stroke-miterlimit="10" pointer-events="stroke" style="stroke: light-dark(rgb(128, 128, 128), rgb(127, 127, 127));"/>
+            <path d="M 270.51 179.47 L 267.01 172.47 L 270.51 174.22 L 274.01 172.47 Z" fill="#808080" stroke="#808080" stroke-miterlimit="10" pointer-events="all" style="fill: light-dark(rgb(128, 128, 128), rgb(127, 127, 127)); stroke: light-dark(rgb(128, 128, 128), rgb(127, 127, 127));"/>
+        </g>
+        <g style="filter: drop-shadow(light-dark(rgba(0, 0, 0, 0.25), rgba(237, 237, 237, 0.25)) 2px 3px 2px);">
+            <path d="M 260 10 Q 260 10 260 174.22" fill="none" stroke="#808080" stroke-miterlimit="10" pointer-events="stroke" style="stroke: light-dark(rgb(128, 128, 128), rgb(127, 127, 127));"/>
+            <path d="M 260 179.47 L 256.5 172.47 L 260 174.22 L 263.5 172.47 Z" fill="#808080" stroke="#808080" stroke-miterlimit="10" pointer-events="all" style="fill: light-dark(rgb(128, 128, 128), rgb(127, 127, 127)); stroke: light-dark(rgb(128, 128, 128), rgb(127, 127, 127));"/>
+        </g>
+        <g style="filter: drop-shadow(light-dark(rgba(0, 0, 0, 0.25), rgba(237, 237, 237, 0.25)) 2px 3px 2px);">
+            <path d="M 250.51 10 Q 250.51 10 250.51 174.22" fill="none" stroke="#808080" stroke-miterlimit="10" pointer-events="stroke" style="stroke: light-dark(rgb(128, 128, 128), rgb(127, 127, 127));"/>
+            <path d="M 250.51 179.47 L 247.01 172.47 L 250.51 174.22 L 254.01 172.47 Z" fill="#808080" stroke="#808080" stroke-miterlimit="10" pointer-events="all" style="fill: light-dark(rgb(128, 128, 128), rgb(127, 127, 127)); stroke: light-dark(rgb(128, 128, 128), rgb(127, 127, 127));"/>
+        </g>
+        <g style="filter: drop-shadow(light-dark(rgba(0, 0, 0, 0.25), rgba(237, 237, 237, 0.25)) 2px 3px 2px);">
+            <path d="M 240 10 Q 240 10 240 174.22" fill="none" stroke="#808080" stroke-miterlimit="10" pointer-events="stroke" style="stroke: light-dark(rgb(128, 128, 128), rgb(127, 127, 127));"/>
+            <path d="M 240 179.47 L 236.5 172.47 L 240 174.22 L 243.5 172.47 Z" fill="#808080" stroke="#808080" stroke-miterlimit="10" pointer-events="all" style="fill: light-dark(rgb(128, 128, 128), rgb(127, 127, 127)); stroke: light-dark(rgb(128, 128, 128), rgb(127, 127, 127));"/>
+        </g>
+        <g style="filter: drop-shadow(light-dark(rgba(0, 0, 0, 0.25), rgba(237, 237, 237, 0.25)) 2px 3px 2px);">
+            <path d="M 230.51 10 Q 230.51 10 230.51 174.22" fill="none" stroke="#808080" stroke-miterlimit="10" pointer-events="stroke" style="stroke: light-dark(rgb(128, 128, 128), rgb(127, 127, 127));"/>
+            <path d="M 230.51 179.47 L 227.01 172.47 L 230.51 174.22 L 234.01 172.47 Z" fill="#808080" stroke="#808080" stroke-miterlimit="10" pointer-events="all" style="fill: light-dark(rgb(128, 128, 128), rgb(127, 127, 127)); stroke: light-dark(rgb(128, 128, 128), rgb(127, 127, 127));"/>
+        </g>
+        <g style="filter: drop-shadow(light-dark(rgba(0, 0, 0, 0.25), rgba(237, 237, 237, 0.25)) 2px 3px 2px);">
+            <path d="M 220 10 Q 220 10 220 174.22" fill="none" stroke="#808080" stroke-miterlimit="10" pointer-events="stroke" style="stroke: light-dark(rgb(128, 128, 128), rgb(127, 127, 127));"/>
+            <path d="M 220 179.47 L 216.5 172.47 L 220 174.22 L 223.5 172.47 Z" fill="#808080" stroke="#808080" stroke-miterlimit="10" pointer-events="all" style="fill: light-dark(rgb(128, 128, 128), rgb(127, 127, 127)); stroke: light-dark(rgb(128, 128, 128), rgb(127, 127, 127));"/>
+        </g>
+        <g style="filter: drop-shadow(light-dark(rgba(0, 0, 0, 0.25), rgba(237, 237, 237, 0.25)) 2px 3px 2px);">
+            <path d="M 210.51 10 Q 210.51 10 210.51 174.22" fill="none" stroke="#808080" stroke-miterlimit="10" pointer-events="stroke" style="stroke: light-dark(rgb(128, 128, 128), rgb(127, 127, 127));"/>
+            <path d="M 210.51 179.47 L 207.01 172.47 L 210.51 174.22 L 214.01 172.47 Z" fill="#808080" stroke="#808080" stroke-miterlimit="10" pointer-events="all" style="fill: light-dark(rgb(128, 128, 128), rgb(127, 127, 127)); stroke: light-dark(rgb(128, 128, 128), rgb(127, 127, 127));"/>
+        </g>
+        <g style="filter: drop-shadow(light-dark(rgba(0, 0, 0, 0.25), rgba(237, 237, 237, 0.25)) 2px 3px 2px);">
+            <path d="M 200 10 Q 200 10 200 174.22" fill="none" stroke="#808080" stroke-miterlimit="10" pointer-events="stroke" style="stroke: light-dark(rgb(128, 128, 128), rgb(127, 127, 127));"/>
+            <path d="M 200 179.47 L 196.5 172.47 L 200 174.22 L 203.5 172.47 Z" fill="#808080" stroke="#808080" stroke-miterlimit="10" pointer-events="all" style="fill: light-dark(rgb(128, 128, 128), rgb(127, 127, 127)); stroke: light-dark(rgb(128, 128, 128), rgb(127, 127, 127));"/>
+        </g>
+        <g style="filter: drop-shadow(light-dark(rgba(0, 0, 0, 0.25), rgba(237, 237, 237, 0.25)) 2px 3px 2px);">
+            <path d="M 190.51 10 Q 190.51 10 190.51 174.22" fill="none" stroke="#808080" stroke-miterlimit="10" pointer-events="stroke" style="stroke: light-dark(rgb(128, 128, 128), rgb(127, 127, 127));"/>
+            <path d="M 190.51 179.47 L 187.01 172.47 L 190.51 174.22 L 194.01 172.47 Z" fill="#808080" stroke="#808080" stroke-miterlimit="10" pointer-events="all" style="fill: light-dark(rgb(128, 128, 128), rgb(127, 127, 127)); stroke: light-dark(rgb(128, 128, 128), rgb(127, 127, 127));"/>
+        </g>
+        <g style="filter: drop-shadow(light-dark(rgba(0, 0, 0, 0.25), rgba(237, 237, 237, 0.25)) 2px 3px 2px);">
+            <path d="M 180 10 Q 180 10 180 174.22" fill="none" stroke="#808080" stroke-miterlimit="10" pointer-events="stroke" style="stroke: light-dark(rgb(128, 128, 128), rgb(127, 127, 127));"/>
+            <path d="M 180 179.47 L 176.5 172.47 L 180 174.22 L 183.5 172.47 Z" fill="#808080" stroke="#808080" stroke-miterlimit="10" pointer-events="all" style="fill: light-dark(rgb(128, 128, 128), rgb(127, 127, 127)); stroke: light-dark(rgb(128, 128, 128), rgb(127, 127, 127));"/>
+        </g>
+        <g>
+            <rect x="170" y="0" width="170" height="191.19" fill="none" stroke="#000000" pointer-events="all" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g/>
+        <g style="filter: drop-shadow(light-dark(rgba(0, 0, 0, 0.25), rgba(237, 237, 237, 0.25)) 2px 3px 2px);">
+            <path d="M 160.51 392 Q 160.51 392 160.51 556.22" fill="none" stroke="#808080" stroke-miterlimit="10" pointer-events="stroke" style="stroke: light-dark(rgb(128, 128, 128), rgb(127, 127, 127));"/>
+            <path d="M 160.51 561.47 L 157.01 554.47 L 160.51 556.22 L 164.01 554.47 Z" fill="#808080" stroke="#808080" stroke-miterlimit="10" pointer-events="all" style="fill: light-dark(rgb(128, 128, 128), rgb(127, 127, 127)); stroke: light-dark(rgb(128, 128, 128), rgb(127, 127, 127));"/>
+        </g>
+        <g style="filter: drop-shadow(light-dark(rgba(0, 0, 0, 0.25), rgba(237, 237, 237, 0.25)) 2px 3px 2px);">
+            <path d="M 150 392 Q 150 392 150 556.22" fill="none" stroke="#808080" stroke-miterlimit="10" pointer-events="stroke" style="stroke: light-dark(rgb(128, 128, 128), rgb(127, 127, 127));"/>
+            <path d="M 150 561.47 L 146.5 554.47 L 150 556.22 L 153.5 554.47 Z" fill="#808080" stroke="#808080" stroke-miterlimit="10" pointer-events="all" style="fill: light-dark(rgb(128, 128, 128), rgb(127, 127, 127)); stroke: light-dark(rgb(128, 128, 128), rgb(127, 127, 127));"/>
+        </g>
+        <g style="filter: drop-shadow(light-dark(rgba(0, 0, 0, 0.25), rgba(237, 237, 237, 0.25)) 2px 3px 2px);">
+            <path d="M 140.51 392 Q 140.51 392 140.51 556.22" fill="none" stroke="#808080" stroke-miterlimit="10" pointer-events="stroke" style="stroke: light-dark(rgb(128, 128, 128), rgb(127, 127, 127));"/>
+            <path d="M 140.51 561.47 L 137.01 554.47 L 140.51 556.22 L 144.01 554.47 Z" fill="#808080" stroke="#808080" stroke-miterlimit="10" pointer-events="all" style="fill: light-dark(rgb(128, 128, 128), rgb(127, 127, 127)); stroke: light-dark(rgb(128, 128, 128), rgb(127, 127, 127));"/>
+        </g>
+        <g style="filter: drop-shadow(light-dark(rgba(0, 0, 0, 0.25), rgba(237, 237, 237, 0.25)) 2px 3px 2px);">
+            <path d="M 130 392 Q 130 392 130 556.22" fill="none" stroke="#808080" stroke-miterlimit="10" pointer-events="stroke" style="stroke: light-dark(rgb(128, 128, 128), rgb(127, 127, 127));"/>
+            <path d="M 130 561.47 L 126.5 554.47 L 130 556.22 L 133.5 554.47 Z" fill="#808080" stroke="#808080" stroke-miterlimit="10" pointer-events="all" style="fill: light-dark(rgb(128, 128, 128), rgb(127, 127, 127)); stroke: light-dark(rgb(128, 128, 128), rgb(127, 127, 127));"/>
+        </g>
+        <g style="filter: drop-shadow(light-dark(rgba(0, 0, 0, 0.25), rgba(237, 237, 237, 0.25)) 2px 3px 2px);">
+            <path d="M 120.51 392 Q 120.51 392 120.51 556.22" fill="none" stroke="#808080" stroke-miterlimit="10" pointer-events="stroke" style="stroke: light-dark(rgb(128, 128, 128), rgb(127, 127, 127));"/>
+            <path d="M 120.51 561.47 L 117.01 554.47 L 120.51 556.22 L 124.01 554.47 Z" fill="#808080" stroke="#808080" stroke-miterlimit="10" pointer-events="all" style="fill: light-dark(rgb(128, 128, 128), rgb(127, 127, 127)); stroke: light-dark(rgb(128, 128, 128), rgb(127, 127, 127));"/>
+        </g>
+        <g style="filter: drop-shadow(light-dark(rgba(0, 0, 0, 0.25), rgba(237, 237, 237, 0.25)) 2px 3px 2px);">
+            <path d="M 110 392 Q 110 392 110 556.22" fill="none" stroke="#999999" stroke-miterlimit="10" pointer-events="stroke" style="stroke: light-dark(rgb(153, 153, 153), rgb(106, 106, 106));"/>
+            <path d="M 110 561.47 L 106.5 554.47 L 110 556.22 L 113.5 554.47 Z" fill="#999999" stroke="#999999" stroke-miterlimit="10" pointer-events="all" style="fill: light-dark(rgb(153, 153, 153), rgb(106, 106, 106)); stroke: light-dark(rgb(153, 153, 153), rgb(106, 106, 106));"/>
+        </g>
+        <g style="filter: drop-shadow(light-dark(rgba(0, 0, 0, 0.25), rgba(237, 237, 237, 0.25)) 2px 3px 2px);">
+            <path d="M 100.51 392 Q 100.51 392 100.51 556.22" fill="none" stroke="#808080" stroke-miterlimit="10" pointer-events="stroke" style="stroke: light-dark(rgb(128, 128, 128), rgb(127, 127, 127));"/>
+            <path d="M 100.51 561.47 L 97.01 554.47 L 100.51 556.22 L 104.01 554.47 Z" fill="#808080" stroke="#808080" stroke-miterlimit="10" pointer-events="all" style="fill: light-dark(rgb(128, 128, 128), rgb(127, 127, 127)); stroke: light-dark(rgb(128, 128, 128), rgb(127, 127, 127));"/>
+        </g>
+        <g style="filter: drop-shadow(light-dark(rgba(0, 0, 0, 0.25), rgba(237, 237, 237, 0.25)) 2px 3px 2px);">
+            <path d="M 90 392 Q 90 392 90 556.22" fill="none" stroke="#808080" stroke-miterlimit="10" pointer-events="stroke" style="stroke: light-dark(rgb(128, 128, 128), rgb(127, 127, 127));"/>
+            <path d="M 90 561.47 L 86.5 554.47 L 90 556.22 L 93.5 554.47 Z" fill="#808080" stroke="#808080" stroke-miterlimit="10" pointer-events="all" style="fill: light-dark(rgb(128, 128, 128), rgb(127, 127, 127)); stroke: light-dark(rgb(128, 128, 128), rgb(127, 127, 127));"/>
+        </g>
+        <g style="filter: drop-shadow(light-dark(rgba(0, 0, 0, 0.25), rgba(237, 237, 237, 0.25)) 2px 3px 2px);">
+            <path d="M 80.51 392 Q 80.51 392 80.51 556.22" fill="none" stroke="#808080" stroke-miterlimit="10" pointer-events="stroke" style="stroke: light-dark(rgb(128, 128, 128), rgb(127, 127, 127));"/>
+            <path d="M 80.51 561.47 L 77.01 554.47 L 80.51 556.22 L 84.01 554.47 Z" fill="#808080" stroke="#808080" stroke-miterlimit="10" pointer-events="all" style="fill: light-dark(rgb(128, 128, 128), rgb(127, 127, 127)); stroke: light-dark(rgb(128, 128, 128), rgb(127, 127, 127));"/>
+        </g>
+        <g style="filter: drop-shadow(light-dark(rgba(0, 0, 0, 0.25), rgba(237, 237, 237, 0.25)) 2px 3px 2px);">
+            <path d="M 70 392 Q 70 392 70 556.22" fill="none" stroke="#808080" stroke-miterlimit="10" pointer-events="stroke" style="stroke: light-dark(rgb(128, 128, 128), rgb(127, 127, 127));"/>
+            <path d="M 70 561.47 L 66.5 554.47 L 70 556.22 L 73.5 554.47 Z" fill="#808080" stroke="#808080" stroke-miterlimit="10" pointer-events="all" style="fill: light-dark(rgb(128, 128, 128), rgb(127, 127, 127)); stroke: light-dark(rgb(128, 128, 128), rgb(127, 127, 127));"/>
+        </g>
+        <g style="filter: drop-shadow(light-dark(rgba(0, 0, 0, 0.25), rgba(237, 237, 237, 0.25)) 2px 3px 2px);">
+            <path d="M 60.51 392 Q 60.51 392 60.51 556.22" fill="none" stroke="#808080" stroke-miterlimit="10" pointer-events="stroke" style="stroke: light-dark(rgb(128, 128, 128), rgb(127, 127, 127));"/>
+            <path d="M 60.51 561.47 L 57.01 554.47 L 60.51 556.22 L 64.01 554.47 Z" fill="#808080" stroke="#808080" stroke-miterlimit="10" pointer-events="all" style="fill: light-dark(rgb(128, 128, 128), rgb(127, 127, 127)); stroke: light-dark(rgb(128, 128, 128), rgb(127, 127, 127));"/>
+        </g>
+        <g style="filter: drop-shadow(light-dark(rgba(0, 0, 0, 0.25), rgba(237, 237, 237, 0.25)) 2px 3px 2px);">
+            <path d="M 50 392 Q 50 392 50 556.22" fill="none" stroke="#808080" stroke-miterlimit="10" pointer-events="stroke" style="stroke: light-dark(rgb(128, 128, 128), rgb(127, 127, 127));"/>
+            <path d="M 50 561.47 L 46.5 554.47 L 50 556.22 L 53.5 554.47 Z" fill="#808080" stroke="#808080" stroke-miterlimit="10" pointer-events="all" style="fill: light-dark(rgb(128, 128, 128), rgb(127, 127, 127)); stroke: light-dark(rgb(128, 128, 128), rgb(127, 127, 127));"/>
+        </g>
+        <g style="filter: drop-shadow(light-dark(rgba(0, 0, 0, 0.25), rgba(237, 237, 237, 0.25)) 2px 3px 2px);">
+            <path d="M 40.51 392 Q 40.51 392 40.51 556.22" fill="none" stroke="#808080" stroke-miterlimit="10" pointer-events="stroke" style="stroke: light-dark(rgb(128, 128, 128), rgb(127, 127, 127));"/>
+            <path d="M 40.51 561.47 L 37.01 554.47 L 40.51 556.22 L 44.01 554.47 Z" fill="#808080" stroke="#808080" stroke-miterlimit="10" pointer-events="all" style="fill: light-dark(rgb(128, 128, 128), rgb(127, 127, 127)); stroke: light-dark(rgb(128, 128, 128), rgb(127, 127, 127));"/>
+        </g>
+        <g style="filter: drop-shadow(light-dark(rgba(0, 0, 0, 0.25), rgba(237, 237, 237, 0.25)) 2px 3px 2px);">
+            <path d="M 30 392 Q 30 392 30 556.22" fill="none" stroke="#808080" stroke-miterlimit="10" pointer-events="stroke" style="stroke: light-dark(rgb(128, 128, 128), rgb(127, 127, 127));"/>
+            <path d="M 30 561.47 L 26.5 554.47 L 30 556.22 L 33.5 554.47 Z" fill="#808080" stroke="#808080" stroke-miterlimit="10" pointer-events="all" style="fill: light-dark(rgb(128, 128, 128), rgb(127, 127, 127)); stroke: light-dark(rgb(128, 128, 128), rgb(127, 127, 127));"/>
+        </g>
+        <g style="filter: drop-shadow(light-dark(rgba(0, 0, 0, 0.25), rgba(237, 237, 237, 0.25)) 2px 3px 2px);">
+            <path d="M 20.51 392 Q 20.51 392 20.51 556.22" fill="none" stroke="#808080" stroke-miterlimit="10" pointer-events="stroke" style="stroke: light-dark(rgb(128, 128, 128), rgb(127, 127, 127));"/>
+            <path d="M 20.51 561.47 L 17.01 554.47 L 20.51 556.22 L 24.01 554.47 Z" fill="#808080" stroke="#808080" stroke-miterlimit="10" pointer-events="all" style="fill: light-dark(rgb(128, 128, 128), rgb(127, 127, 127)); stroke: light-dark(rgb(128, 128, 128), rgb(127, 127, 127));"/>
+        </g>
+        <g style="filter: drop-shadow(light-dark(rgba(0, 0, 0, 0.25), rgba(237, 237, 237, 0.25)) 2px 3px 2px);">
+            <path d="M 10 392 Q 10 392 10 556.22" fill="none" stroke="#808080" stroke-miterlimit="10" pointer-events="stroke" style="stroke: light-dark(rgb(128, 128, 128), rgb(127, 127, 127));"/>
+            <path d="M 10 561.47 L 6.5 554.47 L 10 556.22 L 13.5 554.47 Z" fill="#808080" stroke="#808080" stroke-miterlimit="10" pointer-events="all" style="fill: light-dark(rgb(128, 128, 128), rgb(127, 127, 127)); stroke: light-dark(rgb(128, 128, 128), rgb(127, 127, 127));"/>
+        </g>
+        <g>
+            <rect x="0" y="382" width="170" height="191.19" fill="none" stroke="#000000" pointer-events="all" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g/>
+        <g style="filter: drop-shadow(light-dark(rgba(0, 0, 0, 0.25), rgba(237, 237, 237, 0.25)) 2px 3px 2px);">
+            <path d="M 160.51 201 Q 160.51 201 160.51 365.22" fill="none" stroke="#808080" stroke-miterlimit="10" pointer-events="stroke" style="stroke: light-dark(rgb(128, 128, 128), rgb(127, 127, 127));"/>
+            <path d="M 160.51 370.47 L 157.01 363.47 L 160.51 365.22 L 164.01 363.47 Z" fill="#808080" stroke="#808080" stroke-miterlimit="10" pointer-events="all" style="fill: light-dark(rgb(128, 128, 128), rgb(127, 127, 127)); stroke: light-dark(rgb(128, 128, 128), rgb(127, 127, 127));"/>
+        </g>
+        <g style="filter: drop-shadow(light-dark(rgba(0, 0, 0, 0.25), rgba(237, 237, 237, 0.25)) 2px 3px 2px);">
+            <path d="M 150 201 Q 150 201 150 365.22" fill="none" stroke="#808080" stroke-miterlimit="10" pointer-events="stroke" style="stroke: light-dark(rgb(128, 128, 128), rgb(127, 127, 127));"/>
+            <path d="M 150 370.47 L 146.5 363.47 L 150 365.22 L 153.5 363.47 Z" fill="#808080" stroke="#808080" stroke-miterlimit="10" pointer-events="all" style="fill: light-dark(rgb(128, 128, 128), rgb(127, 127, 127)); stroke: light-dark(rgb(128, 128, 128), rgb(127, 127, 127));"/>
+        </g>
+        <g style="filter: drop-shadow(light-dark(rgba(0, 0, 0, 0.25), rgba(237, 237, 237, 0.25)) 2px 3px 2px);">
+            <path d="M 140.51 201 Q 140.51 201 140.51 365.22" fill="none" stroke="#808080" stroke-miterlimit="10" pointer-events="stroke" style="stroke: light-dark(rgb(128, 128, 128), rgb(127, 127, 127));"/>
+            <path d="M 140.51 370.47 L 137.01 363.47 L 140.51 365.22 L 144.01 363.47 Z" fill="#808080" stroke="#808080" stroke-miterlimit="10" pointer-events="all" style="fill: light-dark(rgb(128, 128, 128), rgb(127, 127, 127)); stroke: light-dark(rgb(128, 128, 128), rgb(127, 127, 127));"/>
+        </g>
+        <g style="filter: drop-shadow(light-dark(rgba(0, 0, 0, 0.25), rgba(237, 237, 237, 0.25)) 2px 3px 2px);">
+            <path d="M 130 201 Q 130 201 130 365.22" fill="none" stroke="#808080" stroke-miterlimit="10" pointer-events="stroke" style="stroke: light-dark(rgb(128, 128, 128), rgb(127, 127, 127));"/>
+            <path d="M 130 370.47 L 126.5 363.47 L 130 365.22 L 133.5 363.47 Z" fill="#808080" stroke="#808080" stroke-miterlimit="10" pointer-events="all" style="fill: light-dark(rgb(128, 128, 128), rgb(127, 127, 127)); stroke: light-dark(rgb(128, 128, 128), rgb(127, 127, 127));"/>
+        </g>
+        <g style="filter: drop-shadow(light-dark(rgba(0, 0, 0, 0.25), rgba(237, 237, 237, 0.25)) 2px 3px 2px);">
+            <path d="M 120.51 201 Q 120.51 201 120.51 365.22" fill="none" stroke="#808080" stroke-miterlimit="10" pointer-events="stroke" style="stroke: light-dark(rgb(128, 128, 128), rgb(127, 127, 127));"/>
+            <path d="M 120.51 370.47 L 117.01 363.47 L 120.51 365.22 L 124.01 363.47 Z" fill="#808080" stroke="#808080" stroke-miterlimit="10" pointer-events="all" style="fill: light-dark(rgb(128, 128, 128), rgb(127, 127, 127)); stroke: light-dark(rgb(128, 128, 128), rgb(127, 127, 127));"/>
+        </g>
+        <g style="filter: drop-shadow(light-dark(rgba(0, 0, 0, 0.25), rgba(237, 237, 237, 0.25)) 2px 3px 2px);">
+            <path d="M 110 201 Q 110 201 110 365.22" fill="none" stroke="#999999" stroke-miterlimit="10" pointer-events="stroke" style="stroke: light-dark(rgb(153, 153, 153), rgb(106, 106, 106));"/>
+            <path d="M 110 370.47 L 106.5 363.47 L 110 365.22 L 113.5 363.47 Z" fill="#999999" stroke="#999999" stroke-miterlimit="10" pointer-events="all" style="fill: light-dark(rgb(153, 153, 153), rgb(106, 106, 106)); stroke: light-dark(rgb(153, 153, 153), rgb(106, 106, 106));"/>
+        </g>
+        <g style="filter: drop-shadow(light-dark(rgba(0, 0, 0, 0.25), rgba(237, 237, 237, 0.25)) 2px 3px 2px);">
+            <path d="M 100.51 201 Q 100.51 201 100.51 365.22" fill="none" stroke="#808080" stroke-miterlimit="10" pointer-events="stroke" style="stroke: light-dark(rgb(128, 128, 128), rgb(127, 127, 127));"/>
+            <path d="M 100.51 370.47 L 97.01 363.47 L 100.51 365.22 L 104.01 363.47 Z" fill="#808080" stroke="#808080" stroke-miterlimit="10" pointer-events="all" style="fill: light-dark(rgb(128, 128, 128), rgb(127, 127, 127)); stroke: light-dark(rgb(128, 128, 128), rgb(127, 127, 127));"/>
+        </g>
+        <g style="filter: drop-shadow(light-dark(rgba(0, 0, 0, 0.25), rgba(237, 237, 237, 0.25)) 2px 3px 2px);">
+            <path d="M 90 201 Q 90 201 90 365.22" fill="none" stroke="#808080" stroke-miterlimit="10" pointer-events="stroke" style="stroke: light-dark(rgb(128, 128, 128), rgb(127, 127, 127));"/>
+            <path d="M 90 370.47 L 86.5 363.47 L 90 365.22 L 93.5 363.47 Z" fill="#808080" stroke="#808080" stroke-miterlimit="10" pointer-events="all" style="fill: light-dark(rgb(128, 128, 128), rgb(127, 127, 127)); stroke: light-dark(rgb(128, 128, 128), rgb(127, 127, 127));"/>
+        </g>
+        <g style="filter: drop-shadow(light-dark(rgba(0, 0, 0, 0.25), rgba(237, 237, 237, 0.25)) 2px 3px 2px);">
+            <path d="M 80.51 201 Q 80.51 201 80.51 365.22" fill="none" stroke="#808080" stroke-miterlimit="10" pointer-events="stroke" style="stroke: light-dark(rgb(128, 128, 128), rgb(127, 127, 127));"/>
+            <path d="M 80.51 370.47 L 77.01 363.47 L 80.51 365.22 L 84.01 363.47 Z" fill="#808080" stroke="#808080" stroke-miterlimit="10" pointer-events="all" style="fill: light-dark(rgb(128, 128, 128), rgb(127, 127, 127)); stroke: light-dark(rgb(128, 128, 128), rgb(127, 127, 127));"/>
+        </g>
+        <g style="filter: drop-shadow(light-dark(rgba(0, 0, 0, 0.25), rgba(237, 237, 237, 0.25)) 2px 3px 2px);">
+            <path d="M 70 201 Q 70 201 70 365.22" fill="none" stroke="#808080" stroke-miterlimit="10" pointer-events="stroke" style="stroke: light-dark(rgb(128, 128, 128), rgb(127, 127, 127));"/>
+            <path d="M 70 370.47 L 66.5 363.47 L 70 365.22 L 73.5 363.47 Z" fill="#808080" stroke="#808080" stroke-miterlimit="10" pointer-events="all" style="fill: light-dark(rgb(128, 128, 128), rgb(127, 127, 127)); stroke: light-dark(rgb(128, 128, 128), rgb(127, 127, 127));"/>
+        </g>
+        <g style="filter: drop-shadow(light-dark(rgba(0, 0, 0, 0.25), rgba(237, 237, 237, 0.25)) 2px 3px 2px);">
+            <path d="M 60.51 201 Q 60.51 201 60.51 365.22" fill="none" stroke="#808080" stroke-miterlimit="10" pointer-events="stroke" style="stroke: light-dark(rgb(128, 128, 128), rgb(127, 127, 127));"/>
+            <path d="M 60.51 370.47 L 57.01 363.47 L 60.51 365.22 L 64.01 363.47 Z" fill="#808080" stroke="#808080" stroke-miterlimit="10" pointer-events="all" style="fill: light-dark(rgb(128, 128, 128), rgb(127, 127, 127)); stroke: light-dark(rgb(128, 128, 128), rgb(127, 127, 127));"/>
+        </g>
+        <g style="filter: drop-shadow(light-dark(rgba(0, 0, 0, 0.25), rgba(237, 237, 237, 0.25)) 2px 3px 2px);">
+            <path d="M 50 201 Q 50 201 50 365.22" fill="none" stroke="#808080" stroke-miterlimit="10" pointer-events="stroke" style="stroke: light-dark(rgb(128, 128, 128), rgb(127, 127, 127));"/>
+            <path d="M 50 370.47 L 46.5 363.47 L 50 365.22 L 53.5 363.47 Z" fill="#808080" stroke="#808080" stroke-miterlimit="10" pointer-events="all" style="fill: light-dark(rgb(128, 128, 128), rgb(127, 127, 127)); stroke: light-dark(rgb(128, 128, 128), rgb(127, 127, 127));"/>
+        </g>
+        <g style="filter: drop-shadow(light-dark(rgba(0, 0, 0, 0.25), rgba(237, 237, 237, 0.25)) 2px 3px 2px);">
+            <path d="M 40.51 201 Q 40.51 201 40.51 365.22" fill="none" stroke="#808080" stroke-miterlimit="10" pointer-events="stroke" style="stroke: light-dark(rgb(128, 128, 128), rgb(127, 127, 127));"/>
+            <path d="M 40.51 370.47 L 37.01 363.47 L 40.51 365.22 L 44.01 363.47 Z" fill="#808080" stroke="#808080" stroke-miterlimit="10" pointer-events="all" style="fill: light-dark(rgb(128, 128, 128), rgb(127, 127, 127)); stroke: light-dark(rgb(128, 128, 128), rgb(127, 127, 127));"/>
+        </g>
+        <g style="filter: drop-shadow(light-dark(rgba(0, 0, 0, 0.25), rgba(237, 237, 237, 0.25)) 2px 3px 2px);">
+            <path d="M 30 201 Q 30 201 30 365.22" fill="none" stroke="#808080" stroke-miterlimit="10" pointer-events="stroke" style="stroke: light-dark(rgb(128, 128, 128), rgb(127, 127, 127));"/>
+            <path d="M 30 370.47 L 26.5 363.47 L 30 365.22 L 33.5 363.47 Z" fill="#808080" stroke="#808080" stroke-miterlimit="10" pointer-events="all" style="fill: light-dark(rgb(128, 128, 128), rgb(127, 127, 127)); stroke: light-dark(rgb(128, 128, 128), rgb(127, 127, 127));"/>
+        </g>
+        <g style="filter: drop-shadow(light-dark(rgba(0, 0, 0, 0.25), rgba(237, 237, 237, 0.25)) 2px 3px 2px);">
+            <path d="M 20.51 201 Q 20.51 201 20.51 365.22" fill="none" stroke="#808080" stroke-miterlimit="10" pointer-events="stroke" style="stroke: light-dark(rgb(128, 128, 128), rgb(127, 127, 127));"/>
+            <path d="M 20.51 370.47 L 17.01 363.47 L 20.51 365.22 L 24.01 363.47 Z" fill="#808080" stroke="#808080" stroke-miterlimit="10" pointer-events="all" style="fill: light-dark(rgb(128, 128, 128), rgb(127, 127, 127)); stroke: light-dark(rgb(128, 128, 128), rgb(127, 127, 127));"/>
+        </g>
+        <g style="filter: drop-shadow(light-dark(rgba(0, 0, 0, 0.25), rgba(237, 237, 237, 0.25)) 2px 3px 2px);">
+            <path d="M 10 201 Q 10 201 10 365.22" fill="none" stroke="#808080" stroke-miterlimit="10" pointer-events="stroke" style="stroke: light-dark(rgb(128, 128, 128), rgb(127, 127, 127));"/>
+            <path d="M 10 370.47 L 6.5 363.47 L 10 365.22 L 13.5 363.47 Z" fill="#808080" stroke="#808080" stroke-miterlimit="10" pointer-events="all" style="fill: light-dark(rgb(128, 128, 128), rgb(127, 127, 127)); stroke: light-dark(rgb(128, 128, 128), rgb(127, 127, 127));"/>
+        </g>
+        <g>
+            <rect x="0" y="191" width="170" height="191.19" fill="none" stroke="#000000" pointer-events="all" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g/>
+        <g style="filter: drop-shadow(light-dark(rgba(0, 0, 0, 0.25), rgba(237, 237, 237, 0.25)) 2px 3px 2px);">
+            <path d="M 330.51 201 Q 330.51 201 330.51 365.22" fill="none" stroke="#808080" stroke-miterlimit="10" pointer-events="stroke" style="stroke: light-dark(rgb(128, 128, 128), rgb(127, 127, 127));"/>
+            <path d="M 330.51 370.47 L 327.01 363.47 L 330.51 365.22 L 334.01 363.47 Z" fill="#808080" stroke="#808080" stroke-miterlimit="10" pointer-events="all" style="fill: light-dark(rgb(128, 128, 128), rgb(127, 127, 127)); stroke: light-dark(rgb(128, 128, 128), rgb(127, 127, 127));"/>
+        </g>
+        <g style="filter: drop-shadow(light-dark(rgba(0, 0, 0, 0.25), rgba(237, 237, 237, 0.25)) 2px 3px 2px);">
+            <path d="M 320 201 Q 320 201 320 365.22" fill="none" stroke="#808080" stroke-miterlimit="10" pointer-events="stroke" style="stroke: light-dark(rgb(128, 128, 128), rgb(127, 127, 127));"/>
+            <path d="M 320 370.47 L 316.5 363.47 L 320 365.22 L 323.5 363.47 Z" fill="#808080" stroke="#808080" stroke-miterlimit="10" pointer-events="all" style="fill: light-dark(rgb(128, 128, 128), rgb(127, 127, 127)); stroke: light-dark(rgb(128, 128, 128), rgb(127, 127, 127));"/>
+        </g>
+        <g style="filter: drop-shadow(light-dark(rgba(0, 0, 0, 0.25), rgba(237, 237, 237, 0.25)) 2px 3px 2px);">
+            <path d="M 310.51 201 Q 310.51 201 310.51 365.22" fill="none" stroke="#808080" stroke-miterlimit="10" pointer-events="stroke" style="stroke: light-dark(rgb(128, 128, 128), rgb(127, 127, 127));"/>
+            <path d="M 310.51 370.47 L 307.01 363.47 L 310.51 365.22 L 314.01 363.47 Z" fill="#808080" stroke="#808080" stroke-miterlimit="10" pointer-events="all" style="fill: light-dark(rgb(128, 128, 128), rgb(127, 127, 127)); stroke: light-dark(rgb(128, 128, 128), rgb(127, 127, 127));"/>
+        </g>
+        <g style="filter: drop-shadow(light-dark(rgba(0, 0, 0, 0.25), rgba(237, 237, 237, 0.25)) 2px 3px 2px);">
+            <path d="M 300 201 Q 300 201 300 365.22" fill="none" stroke="#808080" stroke-miterlimit="10" pointer-events="stroke" style="stroke: light-dark(rgb(128, 128, 128), rgb(127, 127, 127));"/>
+            <path d="M 300 370.47 L 296.5 363.47 L 300 365.22 L 303.5 363.47 Z" fill="#808080" stroke="#808080" stroke-miterlimit="10" pointer-events="all" style="fill: light-dark(rgb(128, 128, 128), rgb(127, 127, 127)); stroke: light-dark(rgb(128, 128, 128), rgb(127, 127, 127));"/>
+        </g>
+        <g style="filter: drop-shadow(light-dark(rgba(0, 0, 0, 0.25), rgba(237, 237, 237, 0.25)) 2px 3px 2px);">
+            <path d="M 290.51 201 Q 290.51 201 290.51 365.22" fill="none" stroke="#808080" stroke-miterlimit="10" pointer-events="stroke" style="stroke: light-dark(rgb(128, 128, 128), rgb(127, 127, 127));"/>
+            <path d="M 290.51 370.47 L 287.01 363.47 L 290.51 365.22 L 294.01 363.47 Z" fill="#808080" stroke="#808080" stroke-miterlimit="10" pointer-events="all" style="fill: light-dark(rgb(128, 128, 128), rgb(127, 127, 127)); stroke: light-dark(rgb(128, 128, 128), rgb(127, 127, 127));"/>
+        </g>
+        <g style="filter: drop-shadow(light-dark(rgba(0, 0, 0, 0.25), rgba(237, 237, 237, 0.25)) 2px 3px 2px);">
+            <path d="M 280 201 Q 280 201 280 365.22" fill="none" stroke="#999999" stroke-miterlimit="10" pointer-events="stroke" style="stroke: light-dark(rgb(153, 153, 153), rgb(106, 106, 106));"/>
+            <path d="M 280 370.47 L 276.5 363.47 L 280 365.22 L 283.5 363.47 Z" fill="#999999" stroke="#999999" stroke-miterlimit="10" pointer-events="all" style="fill: light-dark(rgb(153, 153, 153), rgb(106, 106, 106)); stroke: light-dark(rgb(153, 153, 153), rgb(106, 106, 106));"/>
+        </g>
+        <g style="filter: drop-shadow(light-dark(rgba(0, 0, 0, 0.25), rgba(237, 237, 237, 0.25)) 2px 3px 2px);">
+            <path d="M 270.51 201 Q 270.51 201 270.51 365.22" fill="none" stroke="#808080" stroke-miterlimit="10" pointer-events="stroke" style="stroke: light-dark(rgb(128, 128, 128), rgb(127, 127, 127));"/>
+            <path d="M 270.51 370.47 L 267.01 363.47 L 270.51 365.22 L 274.01 363.47 Z" fill="#808080" stroke="#808080" stroke-miterlimit="10" pointer-events="all" style="fill: light-dark(rgb(128, 128, 128), rgb(127, 127, 127)); stroke: light-dark(rgb(128, 128, 128), rgb(127, 127, 127));"/>
+        </g>
+        <g style="filter: drop-shadow(light-dark(rgba(0, 0, 0, 0.25), rgba(237, 237, 237, 0.25)) 2px 3px 2px);">
+            <path d="M 260 201 Q 260 201 260 365.22" fill="none" stroke="#808080" stroke-miterlimit="10" pointer-events="stroke" style="stroke: light-dark(rgb(128, 128, 128), rgb(127, 127, 127));"/>
+            <path d="M 260 370.47 L 256.5 363.47 L 260 365.22 L 263.5 363.47 Z" fill="#808080" stroke="#808080" stroke-miterlimit="10" pointer-events="all" style="fill: light-dark(rgb(128, 128, 128), rgb(127, 127, 127)); stroke: light-dark(rgb(128, 128, 128), rgb(127, 127, 127));"/>
+        </g>
+        <g style="filter: drop-shadow(light-dark(rgba(0, 0, 0, 0.25), rgba(237, 237, 237, 0.25)) 2px 3px 2px);">
+            <path d="M 250.51 201 Q 250.51 201 250.51 365.22" fill="none" stroke="#808080" stroke-miterlimit="10" pointer-events="stroke" style="stroke: light-dark(rgb(128, 128, 128), rgb(127, 127, 127));"/>
+            <path d="M 250.51 370.47 L 247.01 363.47 L 250.51 365.22 L 254.01 363.47 Z" fill="#808080" stroke="#808080" stroke-miterlimit="10" pointer-events="all" style="fill: light-dark(rgb(128, 128, 128), rgb(127, 127, 127)); stroke: light-dark(rgb(128, 128, 128), rgb(127, 127, 127));"/>
+        </g>
+        <g style="filter: drop-shadow(light-dark(rgba(0, 0, 0, 0.25), rgba(237, 237, 237, 0.25)) 2px 3px 2px);">
+            <path d="M 240 201 Q 240 201 240 365.22" fill="none" stroke="#808080" stroke-miterlimit="10" pointer-events="stroke" style="stroke: light-dark(rgb(128, 128, 128), rgb(127, 127, 127));"/>
+            <path d="M 240 370.47 L 236.5 363.47 L 240 365.22 L 243.5 363.47 Z" fill="#808080" stroke="#808080" stroke-miterlimit="10" pointer-events="all" style="fill: light-dark(rgb(128, 128, 128), rgb(127, 127, 127)); stroke: light-dark(rgb(128, 128, 128), rgb(127, 127, 127));"/>
+        </g>
+        <g style="filter: drop-shadow(light-dark(rgba(0, 0, 0, 0.25), rgba(237, 237, 237, 0.25)) 2px 3px 2px);">
+            <path d="M 230.51 201 Q 230.51 201 230.51 365.22" fill="none" stroke="#808080" stroke-miterlimit="10" pointer-events="stroke" style="stroke: light-dark(rgb(128, 128, 128), rgb(127, 127, 127));"/>
+            <path d="M 230.51 370.47 L 227.01 363.47 L 230.51 365.22 L 234.01 363.47 Z" fill="#808080" stroke="#808080" stroke-miterlimit="10" pointer-events="all" style="fill: light-dark(rgb(128, 128, 128), rgb(127, 127, 127)); stroke: light-dark(rgb(128, 128, 128), rgb(127, 127, 127));"/>
+        </g>
+        <g style="filter: drop-shadow(light-dark(rgba(0, 0, 0, 0.25), rgba(237, 237, 237, 0.25)) 2px 3px 2px);">
+            <path d="M 220 201 Q 220 201 220 365.22" fill="none" stroke="#808080" stroke-miterlimit="10" pointer-events="stroke" style="stroke: light-dark(rgb(128, 128, 128), rgb(127, 127, 127));"/>
+            <path d="M 220 370.47 L 216.5 363.47 L 220 365.22 L 223.5 363.47 Z" fill="#808080" stroke="#808080" stroke-miterlimit="10" pointer-events="all" style="fill: light-dark(rgb(128, 128, 128), rgb(127, 127, 127)); stroke: light-dark(rgb(128, 128, 128), rgb(127, 127, 127));"/>
+        </g>
+        <g style="filter: drop-shadow(light-dark(rgba(0, 0, 0, 0.25), rgba(237, 237, 237, 0.25)) 2px 3px 2px);">
+            <path d="M 210.51 201 Q 210.51 201 210.51 365.22" fill="none" stroke="#808080" stroke-miterlimit="10" pointer-events="stroke" style="stroke: light-dark(rgb(128, 128, 128), rgb(127, 127, 127));"/>
+            <path d="M 210.51 370.47 L 207.01 363.47 L 210.51 365.22 L 214.01 363.47 Z" fill="#808080" stroke="#808080" stroke-miterlimit="10" pointer-events="all" style="fill: light-dark(rgb(128, 128, 128), rgb(127, 127, 127)); stroke: light-dark(rgb(128, 128, 128), rgb(127, 127, 127));"/>
+        </g>
+        <g style="filter: drop-shadow(light-dark(rgba(0, 0, 0, 0.25), rgba(237, 237, 237, 0.25)) 2px 3px 2px);">
+            <path d="M 200 201 Q 200 201 200 365.22" fill="none" stroke="#808080" stroke-miterlimit="10" pointer-events="stroke" style="stroke: light-dark(rgb(128, 128, 128), rgb(127, 127, 127));"/>
+            <path d="M 200 370.47 L 196.5 363.47 L 200 365.22 L 203.5 363.47 Z" fill="#808080" stroke="#808080" stroke-miterlimit="10" pointer-events="all" style="fill: light-dark(rgb(128, 128, 128), rgb(127, 127, 127)); stroke: light-dark(rgb(128, 128, 128), rgb(127, 127, 127));"/>
+        </g>
+        <g style="filter: drop-shadow(light-dark(rgba(0, 0, 0, 0.25), rgba(237, 237, 237, 0.25)) 2px 3px 2px);">
+            <path d="M 190.51 201 Q 190.51 201 190.51 365.22" fill="none" stroke="#808080" stroke-miterlimit="10" pointer-events="stroke" style="stroke: light-dark(rgb(128, 128, 128), rgb(127, 127, 127));"/>
+            <path d="M 190.51 370.47 L 187.01 363.47 L 190.51 365.22 L 194.01 363.47 Z" fill="#808080" stroke="#808080" stroke-miterlimit="10" pointer-events="all" style="fill: light-dark(rgb(128, 128, 128), rgb(127, 127, 127)); stroke: light-dark(rgb(128, 128, 128), rgb(127, 127, 127));"/>
+        </g>
+        <g style="filter: drop-shadow(light-dark(rgba(0, 0, 0, 0.25), rgba(237, 237, 237, 0.25)) 2px 3px 2px);">
+            <path d="M 180 201 Q 180 201 180 365.22" fill="none" stroke="#808080" stroke-miterlimit="10" pointer-events="stroke" style="stroke: light-dark(rgb(128, 128, 128), rgb(127, 127, 127));"/>
+            <path d="M 180 370.47 L 176.5 363.47 L 180 365.22 L 183.5 363.47 Z" fill="#808080" stroke="#808080" stroke-miterlimit="10" pointer-events="all" style="fill: light-dark(rgb(128, 128, 128), rgb(127, 127, 127)); stroke: light-dark(rgb(128, 128, 128), rgb(127, 127, 127));"/>
+        </g>
+        <g>
+            <rect x="170" y="191" width="170" height="191.19" fill="none" stroke="#000000" pointer-events="all" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="290" y="233" width="158.54" height="93.82" fill="none" stroke="none" transform="rotate(-90,369.27,279.91)" pointer-events="all"/>
+        </g>
+        <g>
+            <g transform="translate(-0.5 -0.5)rotate(-90 369.2714285714285 279.91294117647044)">
+                <switch>
+                    <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 157px; height: 1px; padding-top: 280px; margin-left: 291px;">
+                            <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #999999; ">
+                                <div style="display: inline-block; font-size: 37px; font-family: &quot;Helvetica&quot;; color: light-dark(#999999, #6a6a6a); line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                    grid
+                                </div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <text x="369" y="291" fill="#999999" font-family="&quot;Helvetica&quot;" font-size="37px" text-anchor="middle">
+                        grid
+                    </text>
+                </switch>
+            </g>
+        </g>
+        <g>
+            <rect x="382.28" y="45" width="30.47" height="31.19" fill="#fff2cc" stroke="#d6b656" pointer-events="all" style="fill: light-dark(rgb(255, 242, 204), rgb(40, 29, 0)); stroke: light-dark(rgb(214, 182, 86), rgb(109, 81, 0));"/>
+        </g>
+        <g>
+            <rect x="412.75" y="45" width="30.47" height="31.19" fill="#fff2cc" stroke="#d6b656" pointer-events="all" style="fill: light-dark(rgb(255, 242, 204), rgb(40, 29, 0)); stroke: light-dark(rgb(214, 182, 86), rgb(109, 81, 0));"/>
+        </g>
+        <g>
+            <rect x="443.22" y="45" width="30.47" height="31.19" fill="#fff2cc" stroke="#d6b656" pointer-events="all" style="fill: light-dark(rgb(255, 242, 204), rgb(40, 29, 0)); stroke: light-dark(rgb(214, 182, 86), rgb(109, 81, 0));"/>
+        </g>
+        <g>
+            <rect x="473.69" y="45" width="30.47" height="31.19" fill="#fff2cc" stroke="#d6b656" pointer-events="all" style="fill: light-dark(rgb(255, 242, 204), rgb(40, 29, 0)); stroke: light-dark(rgb(214, 182, 86), rgb(109, 81, 0));"/>
+        </g>
+        <g>
+            <rect x="504.16" y="45" width="30.47" height="31.19" fill="#fff2cc" stroke="#d6b656" pointer-events="all" style="fill: light-dark(rgb(255, 242, 204), rgb(40, 29, 0)); stroke: light-dark(rgb(214, 182, 86), rgb(109, 81, 0));"/>
+        </g>
+        <g>
+            <rect x="534.63" y="45" width="30.47" height="31.19" fill="#fff2cc" stroke="#d6b656" pointer-events="all" style="fill: light-dark(rgb(255, 242, 204), rgb(40, 29, 0)); stroke: light-dark(rgb(214, 182, 86), rgb(109, 81, 0));"/>
+        </g>
+        <g>
+            <rect x="382.28" y="76" width="30.47" height="31.19" fill="#fff2cc" stroke="#d6b656" pointer-events="all" style="fill: light-dark(rgb(255, 242, 204), rgb(40, 29, 0)); stroke: light-dark(rgb(214, 182, 86), rgb(109, 81, 0));"/>
+        </g>
+        <g>
+            <rect x="412.75" y="76" width="30.47" height="31.19" fill="#fff2cc" stroke="#d6b656" pointer-events="all" style="fill: light-dark(rgb(255, 242, 204), rgb(40, 29, 0)); stroke: light-dark(rgb(214, 182, 86), rgb(109, 81, 0));"/>
+        </g>
+        <g>
+            <rect x="443.22" y="76" width="30.47" height="31.19" fill="#fff2cc" stroke="#d6b656" pointer-events="all" style="fill: light-dark(rgb(255, 242, 204), rgb(40, 29, 0)); stroke: light-dark(rgb(214, 182, 86), rgb(109, 81, 0));"/>
+        </g>
+        <g>
+            <rect x="473.69" y="76" width="30.47" height="31.19" fill="#fff2cc" stroke="#d6b656" pointer-events="all" style="fill: light-dark(rgb(255, 242, 204), rgb(40, 29, 0)); stroke: light-dark(rgb(214, 182, 86), rgb(109, 81, 0));"/>
+        </g>
+        <g>
+            <rect x="504.16" y="76" width="30.47" height="31.19" fill="#fff2cc" stroke="#d6b656" pointer-events="all" style="fill: light-dark(rgb(255, 242, 204), rgb(40, 29, 0)); stroke: light-dark(rgb(214, 182, 86), rgb(109, 81, 0));"/>
+        </g>
+        <g>
+            <rect x="534.63" y="76" width="30.47" height="31.19" fill="#fff2cc" stroke="#d6b656" pointer-events="all" style="fill: light-dark(rgb(255, 242, 204), rgb(40, 29, 0)); stroke: light-dark(rgb(214, 182, 86), rgb(109, 81, 0));"/>
+        </g>
+        <g style="filter: drop-shadow(light-dark(rgba(0, 0, 0, 0.25), rgba(237, 237, 237, 0.25)) 2px 3px 2px);">
+            <path d="M 340.68 60.03 L 378.16 60.54" fill="none" stroke="#808080" stroke-miterlimit="10" stroke-dasharray="1 4" pointer-events="stroke" style="stroke: light-dark(rgb(128, 128, 128), rgb(127, 127, 127));"/>
+            <path d="M 381.16 60.58 L 378.14 62.04 L 378.18 59.04 Z" fill="none" stroke="#808080" stroke-miterlimit="10" pointer-events="all" style="stroke: light-dark(rgb(128, 128, 128), rgb(127, 127, 127));"/>
+        </g>
+        <g/>
+        <g style="filter: drop-shadow(light-dark(rgba(0, 0, 0, 0.25), rgba(237, 237, 237, 0.25)) 2px 3px 2px);">
+            <path d="M 330.51 392 Q 330.51 392 330.51 556.22" fill="none" stroke="#808080" stroke-miterlimit="10" pointer-events="stroke" style="stroke: light-dark(rgb(128, 128, 128), rgb(127, 127, 127));"/>
+            <path d="M 330.51 561.47 L 327.01 554.47 L 330.51 556.22 L 334.01 554.47 Z" fill="#808080" stroke="#808080" stroke-miterlimit="10" pointer-events="all" style="fill: light-dark(rgb(128, 128, 128), rgb(127, 127, 127)); stroke: light-dark(rgb(128, 128, 128), rgb(127, 127, 127));"/>
+        </g>
+        <g style="filter: drop-shadow(light-dark(rgba(0, 0, 0, 0.25), rgba(237, 237, 237, 0.25)) 2px 3px 2px);">
+            <path d="M 320 392 Q 320 392 320 556.22" fill="none" stroke="#808080" stroke-miterlimit="10" pointer-events="stroke" style="stroke: light-dark(rgb(128, 128, 128), rgb(127, 127, 127));"/>
+            <path d="M 320 561.47 L 316.5 554.47 L 320 556.22 L 323.5 554.47 Z" fill="#808080" stroke="#808080" stroke-miterlimit="10" pointer-events="all" style="fill: light-dark(rgb(128, 128, 128), rgb(127, 127, 127)); stroke: light-dark(rgb(128, 128, 128), rgb(127, 127, 127));"/>
+        </g>
+        <g style="filter: drop-shadow(light-dark(rgba(0, 0, 0, 0.25), rgba(237, 237, 237, 0.25)) 2px 3px 2px);">
+            <path d="M 310.51 392 Q 310.51 392 310.51 556.22" fill="none" stroke="#808080" stroke-miterlimit="10" pointer-events="stroke" style="stroke: light-dark(rgb(128, 128, 128), rgb(127, 127, 127));"/>
+            <path d="M 310.51 561.47 L 307.01 554.47 L 310.51 556.22 L 314.01 554.47 Z" fill="#808080" stroke="#808080" stroke-miterlimit="10" pointer-events="all" style="fill: light-dark(rgb(128, 128, 128), rgb(127, 127, 127)); stroke: light-dark(rgb(128, 128, 128), rgb(127, 127, 127));"/>
+        </g>
+        <g style="filter: drop-shadow(light-dark(rgba(0, 0, 0, 0.25), rgba(237, 237, 237, 0.25)) 2px 3px 2px);">
+            <path d="M 300 392 Q 300 392 300 556.22" fill="none" stroke="#808080" stroke-miterlimit="10" pointer-events="stroke" style="stroke: light-dark(rgb(128, 128, 128), rgb(127, 127, 127));"/>
+            <path d="M 300 561.47 L 296.5 554.47 L 300 556.22 L 303.5 554.47 Z" fill="#808080" stroke="#808080" stroke-miterlimit="10" pointer-events="all" style="fill: light-dark(rgb(128, 128, 128), rgb(127, 127, 127)); stroke: light-dark(rgb(128, 128, 128), rgb(127, 127, 127));"/>
+        </g>
+        <g style="filter: drop-shadow(light-dark(rgba(0, 0, 0, 0.25), rgba(237, 237, 237, 0.25)) 2px 3px 2px);">
+            <path d="M 290.51 392 Q 290.51 392 290.51 556.22" fill="none" stroke="#808080" stroke-miterlimit="10" pointer-events="stroke" style="stroke: light-dark(rgb(128, 128, 128), rgb(127, 127, 127));"/>
+            <path d="M 290.51 561.47 L 287.01 554.47 L 290.51 556.22 L 294.01 554.47 Z" fill="#808080" stroke="#808080" stroke-miterlimit="10" pointer-events="all" style="fill: light-dark(rgb(128, 128, 128), rgb(127, 127, 127)); stroke: light-dark(rgb(128, 128, 128), rgb(127, 127, 127));"/>
+        </g>
+        <g style="filter: drop-shadow(light-dark(rgba(0, 0, 0, 0.25), rgba(237, 237, 237, 0.25)) 2px 3px 2px);">
+            <path d="M 280 392 Q 280 392 280 556.22" fill="none" stroke="#999999" stroke-miterlimit="10" pointer-events="stroke" style="stroke: light-dark(rgb(153, 153, 153), rgb(106, 106, 106));"/>
+            <path d="M 280 561.47 L 276.5 554.47 L 280 556.22 L 283.5 554.47 Z" fill="#999999" stroke="#999999" stroke-miterlimit="10" pointer-events="all" style="fill: light-dark(rgb(153, 153, 153), rgb(106, 106, 106)); stroke: light-dark(rgb(153, 153, 153), rgb(106, 106, 106));"/>
+        </g>
+        <g style="filter: drop-shadow(light-dark(rgba(0, 0, 0, 0.25), rgba(237, 237, 237, 0.25)) 2px 3px 2px);">
+            <path d="M 270.51 392 Q 270.51 392 270.51 556.22" fill="none" stroke="#808080" stroke-miterlimit="10" pointer-events="stroke" style="stroke: light-dark(rgb(128, 128, 128), rgb(127, 127, 127));"/>
+            <path d="M 270.51 561.47 L 267.01 554.47 L 270.51 556.22 L 274.01 554.47 Z" fill="#808080" stroke="#808080" stroke-miterlimit="10" pointer-events="all" style="fill: light-dark(rgb(128, 128, 128), rgb(127, 127, 127)); stroke: light-dark(rgb(128, 128, 128), rgb(127, 127, 127));"/>
+        </g>
+        <g style="filter: drop-shadow(light-dark(rgba(0, 0, 0, 0.25), rgba(237, 237, 237, 0.25)) 2px 3px 2px);">
+            <path d="M 260 392 Q 260 392 260 556.22" fill="none" stroke="#808080" stroke-miterlimit="10" pointer-events="stroke" style="stroke: light-dark(rgb(128, 128, 128), rgb(127, 127, 127));"/>
+            <path d="M 260 561.47 L 256.5 554.47 L 260 556.22 L 263.5 554.47 Z" fill="#808080" stroke="#808080" stroke-miterlimit="10" pointer-events="all" style="fill: light-dark(rgb(128, 128, 128), rgb(127, 127, 127)); stroke: light-dark(rgb(128, 128, 128), rgb(127, 127, 127));"/>
+        </g>
+        <g style="filter: drop-shadow(light-dark(rgba(0, 0, 0, 0.25), rgba(237, 237, 237, 0.25)) 2px 3px 2px);">
+            <path d="M 250.51 392 Q 250.51 392 250.51 556.22" fill="none" stroke="#808080" stroke-miterlimit="10" pointer-events="stroke" style="stroke: light-dark(rgb(128, 128, 128), rgb(127, 127, 127));"/>
+            <path d="M 250.51 561.47 L 247.01 554.47 L 250.51 556.22 L 254.01 554.47 Z" fill="#808080" stroke="#808080" stroke-miterlimit="10" pointer-events="all" style="fill: light-dark(rgb(128, 128, 128), rgb(127, 127, 127)); stroke: light-dark(rgb(128, 128, 128), rgb(127, 127, 127));"/>
+        </g>
+        <g style="filter: drop-shadow(light-dark(rgba(0, 0, 0, 0.25), rgba(237, 237, 237, 0.25)) 2px 3px 2px);">
+            <path d="M 240 392 Q 240 392 240 556.22" fill="none" stroke="#808080" stroke-miterlimit="10" pointer-events="stroke" style="stroke: light-dark(rgb(128, 128, 128), rgb(127, 127, 127));"/>
+            <path d="M 240 561.47 L 236.5 554.47 L 240 556.22 L 243.5 554.47 Z" fill="#808080" stroke="#808080" stroke-miterlimit="10" pointer-events="all" style="fill: light-dark(rgb(128, 128, 128), rgb(127, 127, 127)); stroke: light-dark(rgb(128, 128, 128), rgb(127, 127, 127));"/>
+        </g>
+        <g style="filter: drop-shadow(light-dark(rgba(0, 0, 0, 0.25), rgba(237, 237, 237, 0.25)) 2px 3px 2px);">
+            <path d="M 230.51 392 Q 230.51 392 230.51 556.22" fill="none" stroke="#808080" stroke-miterlimit="10" pointer-events="stroke" style="stroke: light-dark(rgb(128, 128, 128), rgb(127, 127, 127));"/>
+            <path d="M 230.51 561.47 L 227.01 554.47 L 230.51 556.22 L 234.01 554.47 Z" fill="#808080" stroke="#808080" stroke-miterlimit="10" pointer-events="all" style="fill: light-dark(rgb(128, 128, 128), rgb(127, 127, 127)); stroke: light-dark(rgb(128, 128, 128), rgb(127, 127, 127));"/>
+        </g>
+        <g style="filter: drop-shadow(light-dark(rgba(0, 0, 0, 0.25), rgba(237, 237, 237, 0.25)) 2px 3px 2px);">
+            <path d="M 220 392 Q 220 392 220 556.22" fill="none" stroke="#808080" stroke-miterlimit="10" pointer-events="stroke" style="stroke: light-dark(rgb(128, 128, 128), rgb(127, 127, 127));"/>
+            <path d="M 220 561.47 L 216.5 554.47 L 220 556.22 L 223.5 554.47 Z" fill="#808080" stroke="#808080" stroke-miterlimit="10" pointer-events="all" style="fill: light-dark(rgb(128, 128, 128), rgb(127, 127, 127)); stroke: light-dark(rgb(128, 128, 128), rgb(127, 127, 127));"/>
+        </g>
+        <g style="filter: drop-shadow(light-dark(rgba(0, 0, 0, 0.25), rgba(237, 237, 237, 0.25)) 2px 3px 2px);">
+            <path d="M 210.51 392 Q 210.51 392 210.51 556.22" fill="none" stroke="#808080" stroke-miterlimit="10" pointer-events="stroke" style="stroke: light-dark(rgb(128, 128, 128), rgb(127, 127, 127));"/>
+            <path d="M 210.51 561.47 L 207.01 554.47 L 210.51 556.22 L 214.01 554.47 Z" fill="#808080" stroke="#808080" stroke-miterlimit="10" pointer-events="all" style="fill: light-dark(rgb(128, 128, 128), rgb(127, 127, 127)); stroke: light-dark(rgb(128, 128, 128), rgb(127, 127, 127));"/>
+        </g>
+        <g style="filter: drop-shadow(light-dark(rgba(0, 0, 0, 0.25), rgba(237, 237, 237, 0.25)) 2px 3px 2px);">
+            <path d="M 200 392 Q 200 392 200 556.22" fill="none" stroke="#808080" stroke-miterlimit="10" pointer-events="stroke" style="stroke: light-dark(rgb(128, 128, 128), rgb(127, 127, 127));"/>
+            <path d="M 200 561.47 L 196.5 554.47 L 200 556.22 L 203.5 554.47 Z" fill="#808080" stroke="#808080" stroke-miterlimit="10" pointer-events="all" style="fill: light-dark(rgb(128, 128, 128), rgb(127, 127, 127)); stroke: light-dark(rgb(128, 128, 128), rgb(127, 127, 127));"/>
+        </g>
+        <g style="filter: drop-shadow(light-dark(rgba(0, 0, 0, 0.25), rgba(237, 237, 237, 0.25)) 2px 3px 2px);">
+            <path d="M 190.51 392 Q 190.51 392 190.51 556.22" fill="none" stroke="#808080" stroke-miterlimit="10" pointer-events="stroke" style="stroke: light-dark(rgb(128, 128, 128), rgb(127, 127, 127));"/>
+            <path d="M 190.51 561.47 L 187.01 554.47 L 190.51 556.22 L 194.01 554.47 Z" fill="#808080" stroke="#808080" stroke-miterlimit="10" pointer-events="all" style="fill: light-dark(rgb(128, 128, 128), rgb(127, 127, 127)); stroke: light-dark(rgb(128, 128, 128), rgb(127, 127, 127));"/>
+        </g>
+        <g style="filter: drop-shadow(light-dark(rgba(0, 0, 0, 0.25), rgba(237, 237, 237, 0.25)) 2px 3px 2px);">
+            <path d="M 180 392 Q 180 392 180 556.22" fill="none" stroke="#808080" stroke-miterlimit="10" pointer-events="stroke" style="stroke: light-dark(rgb(128, 128, 128), rgb(127, 127, 127));"/>
+            <path d="M 180 561.47 L 176.5 554.47 L 180 556.22 L 183.5 554.47 Z" fill="#808080" stroke="#808080" stroke-miterlimit="10" pointer-events="all" style="fill: light-dark(rgb(128, 128, 128), rgb(127, 127, 127)); stroke: light-dark(rgb(128, 128, 128), rgb(127, 127, 127));"/>
+        </g>
+        <g>
+            <rect x="170" y="382" width="170" height="191.19" fill="none" stroke="#000000" pointer-events="all" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+    </g>
+    <switch>
+        <g requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"/>
+        <a transform="translate(0,-5)" xlink:href="https://www.drawio.com/doc/faq/svg-export-text-problems" target="_blank">
+            <text text-anchor="middle" font-size="10px" x="50%" y="100%">
+                Text is not SVG - cannot display
+            </text>
+        </a>
+    </switch>
+</svg>
