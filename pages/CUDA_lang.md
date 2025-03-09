@@ -377,3 +377,28 @@ Flattening the index calculation **optimizes memory access patterns**, ensuring 
   
   In the statement `X[i] = Y[i] * N[i] + B[i];`, the index `i` is used to perform the operation `Y[i] * N[i] + B[i]`, and the result is stored in array `X` at the same index `i`.
 </div>
+
+---
+
+# Let's Dive into Code
+ <img src="../images/QR.png" style="position: absolute; top: 15%; left: 60%; width: 35%;">
+
+
+[Colab Notebook](https://colab.research.google.com/drive/1Nl3Ab0H21iQK1oiZpf501KyGj1RXHWaY#scrollTo=giiucWvb0dyg){style="position: absolute; top: 450px; left: 620px; font-size: 40px;"}
+
+
+
+  <div style="position: absolute; top: 20%; left: 5%; width: 45%; border: 1px solid #ccc; padding: 10px; text-align: left; overflow: auto; font-size: 15px;">
+      
+
+### Simulation of Cases with Google Colab
+
+We will use **Google Colab** to simulate two cases of operations in CUDA:
+
+1. **Vector Addition**: We will perform the addition of two vectors to observe the efficiency and performance in a parallel environment.
+2. **Matrix Multiplication**: We will implement the multiplication of two matrices and analyze CUDA's behavior with respect to high-volume operation execution.
+
+These cases will help us evaluate the **performance** of CUDA in basic operations and validate the improvements compared to a sequential approach.
+
+  </div>
+
