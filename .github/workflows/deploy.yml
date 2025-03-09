@@ -32,6 +32,9 @@ jobs:
       - name: Install dependencies
         run: nci
 
+      - name: Intallng theme
+        run: npm i slidev-theme-dracula
+
       - name: Build
         run: nr build --base /${{github.event.repository.name}}/
 
