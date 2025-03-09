@@ -81,7 +81,7 @@ level: 2
 
 <div style="position: absolute; top: 20%; left: 50%; width: 40%; text-align: center;">
 
-<img src="https://postfiles.pstatic.net/MjAxNzA5MjZfMjYg/MDAxNTA2NDE0MzQyMDgw.Vu6hG-1O-GpEPEyl6wE73S15gMwgdMJU_4zHxTTlIFMg.W9qHd53DgF1I87MxE6ZOeDGC8w_TtMJuDWE1kAVJrLsg.PNG.n_cloudplatform/2.png?type=w3840"/>
+<img src="../images/CUDA-scheme.png"/>
 </div>
 
 <svg  style="position: absolute; top: 105px; left: 480px; width: 420px; height: 270px;">
