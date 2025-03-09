@@ -16,7 +16,12 @@ clicks: 3
 
 **1984**: EGA (mejora en resolución y colores).  
 
-**Enfoque**: texto, gráficos simples, aplicaciones empresariales.  
+**Enfoque**: texto, gráficos simples, aplicaciones empresariales. 
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/IBM_PC_5150.jpg/250px-IBM_PC_5150.jpg" style="position: absolute; top: 20%; left: -90%; width: 80%;">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/EGA_card.jpg/800px-EGA_card.jpg" style="position: absolute; top: 0%; left: 100%; width: 80%;">
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/Arachne_EGA_Mode.png" style="position: absolute; top: 75%; left: 100%; width: 80%;">
+
 </div></div>
 <!-- ======================================================================================== -->
 <div v-click="[1]">
@@ -38,6 +43,11 @@ clicks: 3
 
 En ese año nace la GPU (que relamente es el CHIP y no la tarjeta) y causó una verdadera revolución dentro del mundo tecnológico.  
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/3dfx_logo.svg/800px-3dfx_logo.svg.png" style="position: absolute; top: 110%; left: -150%; width: 30%;">
+<img src="https://i.blogs.es/ae33c8/quake_screen-8-_-250746611e7c20cb3827.25829569/840_560.jpeg" style="position: absolute; top: 10%; left: -70%; width: 60%;">
+<img src="https://i.ytimg.com/vi/as-aVVm9JZI/sddefault.jpg" style="position: absolute; top: 85%; left: -70%; width: 60%;">
+<img src="https://i0.wp.com/www.madboxpc.com/wp-content/uploads/2010/07/NVIDIA-GeForce1.jpg?resize=405%2C390&ssl=1" style="position: absolute; top: 100%; left: 30%; width: 40%;">
+
 </div>
 
 </div>
@@ -54,6 +64,8 @@ En ese año nace la GPU (que relamente es el CHIP y no la tarjeta) y causó una 
 ## 2000: Crecimiento de NVidia
 La **GEFORCE 256** fue el primer modelo de Nvidia con un procesador GPU y resultó un enorme éxito comercial y tecnológico. En ese momento las tarjetas eran caras y estaban pensadas solamente para un usuario exigente.  
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/e1/VisionTek_GeForce_256.jpg" style="position: absolute; top: 100%; left: 15%; width: 70%;">
+
 </div>
 
 <div class="absolute left-25/40 w-1/3" style="text-align: center;">
@@ -63,7 +75,10 @@ Nvidia produce la primera GPU programable: la GeForce 3. **GeForce 3** represent
 
 Fue la primera tarjeta en introducir **Shaders programables** que permitieron a los desarrolladores de videojuegos personalizar los efectos visuales y gráficos.
 
-> [🤔]{style="font-size: 30px;"}<br> If GPUs can run small programs for graphics, could we use them for non-graphics tasks?
+<blockquote>
+
+[🤔]{style="font-size: 30px;"}<br> If GPUs can run small programs for graphics, could we use them for non-graphics tasks?
+</blockquote>
 
 </div>
 
