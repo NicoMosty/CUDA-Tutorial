@@ -1,10 +1,15 @@
 ---
+favicon: https://img.icons8.com/external-filled-line-andi-nur-abdillah/64/external-GPU-gaming-(filled-line)-filled-line-andi-nur-abdillah.png
+background: https://images.unsplash.com/photo-1624421514201-db391243ed51?q=80&w=2428&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+
+backgroundSource: unsplash 
+backgroundSourceUrl: https://images.unsplash.com/photo-1624421514201-db391243ed51?q=80&w=2428&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+
+date: 10/03/2025
+
 # You can also start simply with 'default'
 theme: dracula
-# random image from a curated Unsplash collection by Anthony
-# like them? see https://unsplash.com/collections/94734566/slidev
-background: https://access-ci.org/wp-content/uploads/2025/02/Turbulence-1536x864.jpg
-# some information about your slides (markdown enabled)
+
 title: Introducción a CUDA
 info: |
   ## Slidev Starter Template
