@@ -2,7 +2,7 @@
 clicks: 3
 ---
 
-# So, How Do You Write CUDA Code Anyway?
+# How to Write CUDA Code: A Step-by-Step Guide
 
 <h2>CPUs problem</h2>
 
@@ -50,7 +50,7 @@ level: 2
 
 <div v-click="[0, 2]">
 
-## Terminology
+## Key Terminology in CUDA
 </div>
 
 <div v-click="[0]">
@@ -105,7 +105,7 @@ clicks: 3
 
 <h1>So, How Do You Write CUDA Code Anyway?</h1>
 
-## CUDA Kennels
+## Understanding CUDA Kernels
 
 <img v-click="[0]"  src="../images/cuda-kernel/thread.svg" style="position: absolute; top: 40%; left: 0%; width: 40%; text-align: center;">
 
@@ -140,7 +140,7 @@ level: 2
 
 <h1>So, How Do You Write CUDA Code Anyway?</h1>
 
-## Execution Workflow
+## The CUDA Execution Workflow
   
 <div  v-click="[0,4]" style="position: absolute; top: 25%; left: 5%; width: 45%; border: 1px solid #ccc; padding: 5px; text-align: center;">
     <h3>Preparation on the host</h3>
@@ -274,7 +274,7 @@ clicks: 6
 
 <h1>So, How Do You Write CUDA Code Anyway?</h1>
 
-## CUDA Kernel Execution
+## How CUDA Kernels Are Executed
 
 <div style="position: absolute; top: 25%; left: 53%; width: 45%;">
 
@@ -379,7 +379,7 @@ Flattening the index calculation **optimizes memory access patterns**, ensuring 
 
 ---
 
-# Let's Dive into Code
+# Let’s Dive into CUDA Code: Practical Examples
  <img src="../images/QR.png" style="position: absolute; top: 15%; left: 60%; width: 35%;">
 
 
@@ -390,7 +390,7 @@ Flattening the index calculation **optimizes memory access patterns**, ensuring 
   <div style="position: absolute; top: 20%; left: 5%; width: 45%; border: 1px solid #ccc; padding: 10px; text-align: left; overflow: auto; font-size: 15px;">
       
 
-### Simulation of Cases with Google Colab
+## Simulation of Cases with Google Colab
 
 We will use **Google Colab** to simulate two cases of operations in CUDA:
 

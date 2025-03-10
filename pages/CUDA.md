@@ -113,7 +113,7 @@ clicks: 2
 
 <h1>How Does CUDA Actually Work?</h1>
 
-## CPU vs GPU
+## CPU vs. GPU: Key Differences
 <img v-click="[0]" src="https://enccs.github.io/gpu-programming/_images/CPUAndGPU.png" style="position: absolute; top:25%; left: 15%; width: 70%;"/>
 
 <img v-click="[1]" src="https://enccs.github.io/gpu-programming/_images/CPUAndGPU.png" style="position: absolute; top: 25%; left: 15%; width: 70%; clip-path: inset(0 65% 0 0);"/>

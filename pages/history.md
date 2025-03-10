@@ -2,7 +2,7 @@
 clicks: 3
 ---
 
-# Where Did CUDA Come From?
+# Where Did CUDA Come From? A Brief History
 
 <div v-click="[0]">
 
