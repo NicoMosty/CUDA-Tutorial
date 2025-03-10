@@ -9,14 +9,14 @@ clicks: 3
 <div class="absolute" style="text-align: center; top: 95%; left: 21%">1980s</div>
 <div class="absolute left-1/3 w-1/3" style="text-align: center;">
 
-## 1981-1984: Primeras Tarjetas Gráficas
-**1981**: IBM MDA (monocromática).  
+  ## 1981-1984: First Graphics Cards
+**1981**: IBM MDA (monochrome).
 
-**1982**: GA (primer soporte color).  
+**1982**: GA (first color support).
 
-**1984**: EGA (mejora en resolución y colores).  
+**1984**: EGA (improvement in resolution and colors).
 
-**Enfoque**: texto, gráficos simples, aplicaciones empresariales. 
+**Focus**: text, simple graphics, business applications.
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/IBM_PC_5150.jpg/250px-IBM_PC_5150.jpg" style="position: absolute; top: 20%; left: -90%; width: 80%;">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/EGA_card.jpg/800px-EGA_card.jpg" style="position: absolute; top: 0%; left: 100%; width: 80%;">
@@ -29,19 +29,19 @@ clicks: 3
 <div class="absolute" style="text-align: center; top: 95%; left: 36%">1990s</div>
 <div class="absolute left-1/40 w-1/3" style="text-align: center;">
 
-## 1996-1999: 3dfx y las GPUs 3D
-**1996**: 3dfx lanzó el chip gráfico Voodoo, transformando la aceleración 3D en los videojuegos. Su API Glide permitió juegos como *Quake* con gráficos impresionantes para la época. 
+## 1996-1999: 3dfx and 3D GPUs
+**1996**: 3dfx released the Voodoo graphics chip, transforming 3D acceleration in video games. Its Glide API enabled games like *Quake* to feature impressive graphics for its time.
 
-**1997**: Voodoo 2 consolidó su posición, abriendo camino para la competencia de Nvidia y ATI.
+**1997**: Voodoo 2 solidified its position, paving the way for competition from Nvidia and ATI.
 
 </div>
 
 <div class="absolute left-25/40 w-1/3" style="text-align: center;">
 
-## 1999: Nvidia y la GPU
-**1999**: Nvidia crea y oficializa el término tarjeta gráfica y comienza a liderar el mercado con la incorporación de su gama GForce.  
+## 1999: Nvidia and the GPU
+**1999**: Nvidia coined and officially introduced the term "graphics card" and began to lead the market with the launch of its GeForce range.
 
-En ese año nace la GPU (que relamente es el CHIP y no la tarjeta) y causó una verdadera revolución dentro del mundo tecnológico.  
+That year, the GPU (which is actually the CHIP, not the card) was born, causing a true revolution in the tech world.
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/3dfx_logo.svg/800px-3dfx_logo.svg.png" style="position: absolute; top: 110%; left: -150%; width: 30%;">
 <img src="https://i.blogs.es/ae33c8/quake_screen-8-_-250746611e7c20cb3827.25829569/840_560.jpeg" style="position: absolute; top: 10%; left: -70%; width: 60%;">
@@ -60,9 +60,8 @@ En ese año nace la GPU (que relamente es el CHIP y no la tarjeta) y causó una 
 
 <div class="absolute left-1/40 w-1/3" style="text-align: center;">
 
-
-## 2000: Crecimiento de NVidia
-La **GEFORCE 256** fue el primer modelo de Nvidia con un procesador GPU y resultó un enorme éxito comercial y tecnológico. En ese momento las tarjetas eran caras y estaban pensadas solamente para un usuario exigente.  
+## 2000: Nvidia's Growth
+The **GEFORCE 256** was Nvidia's first model with a GPU processor and became a huge commercial and technological success. At that time, the cards were expensive and aimed solely at demanding users.
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/e/e1/VisionTek_GeForce_256.jpg" style="position: absolute; top: 100%; left: 15%; width: 70%;">
 
@@ -71,9 +70,9 @@ La **GEFORCE 256** fue el primer modelo de Nvidia con un procesador GPU y result
 <div class="absolute left-25/40 w-1/3" style="text-align: center;">
 
 ## 2001: GeForce 3
-Nvidia produce la primera GPU programable: la GeForce 3. **GeForce 3** representó un gran salto en la programación de gráficos.
+Nvidia released the first programmable GPU: the GeForce 3. **GeForce 3** represented a significant leap in graphics programming.
 
-Fue la primera tarjeta en introducir **Shaders programables** que permitieron a los desarrolladores de videojuegos personalizar los efectos visuales y gráficos.
+It was the first card to introduce **programmable Shaders**, allowing video game developers to customize visual effects and graphics.
 
 <blockquote>
 
@@ -104,15 +103,14 @@ In 2006, NVIDIA introduced **CUDA (Compute Unified Device Architecture)**, an ar
 
 <div class="absolute left-25/40 w-1/3" style="text-align: center;">
 
-## 2010-Now: Cómputo Paralelo
-Las GPUs se volvieron esenciales para el cómputo paralelo, permitiendo tareas más allá de los gráficos con tecnologías como **CUDA** y **OpenCL**.  Su dominio en áreas como la inteligencia artificial y los centros de datos ha sido notable.
+## 2010-Now: Parallel Computing
+GPUs became essential for parallel computing, enabling tasks beyond graphics with technologies like **CUDA** and **OpenCL**. Their dominance in areas such as artificial intelligence and data centers has been remarkable.
 
-**IA**, **deep learning**, **Cripto**. 
+**AI**, **deep learning**, **Crypto**.
 
-**Ray tracing** (NVIDIA RTX, 2018).  
+**Ray tracing** (NVIDIA RTX, 2018).
 
-**Competencia**: **AMD**, **NVIDIA**, **Apple**.s
-
+**Competition**: **AMD**, **NVIDIA**, **Apple**.
 
 </div>
 
