@@ -380,24 +380,30 @@ Flattening the index calculation **optimizes memory access patterns**, ensuring 
 ---
 
 # Let’s Dive into CUDA Code: Practical Examples
- <img src="../images/QR.png" style="position: absolute; top: 15%; left: 60%; width: 35%;">
+ <img src="../images/QR.png" style="position: absolute; top: 15%; left: 60%; width: 30%;">
 
 
-[Colab Notebook](https://colab.research.google.com/drive/1Nl3Ab0H21iQK1oiZpf501KyGj1RXHWaY#scrollTo=giiucWvb0dyg){style="position: absolute; top: 450px; left: 620px; font-size: 40px;"}
+[Colab Notebook](https://colab.research.google.com/drive/1Nl3Ab0H21iQK1oiZpf501KyGj1RXHWaY#scrollTo=giiucWvb0dyg){style="position: absolute; top: 450px; left: 650px; font-size: 40px;"}
 
 
 
-  <div style="position: absolute; top: 20%; left: 5%; width: 45%; border: 1px solid #ccc; padding: 10px; text-align: left; overflow: auto; font-size: 15px;">
+  <div style="position: absolute; top: 20%; left: 5%; width: 55%; border: 1px solid #ccc; padding: 10px; text-align: left; overflow: auto; font-size: 15px;">
       
 
 ## Simulation of Cases with Google Colab
 
-We will use **Google Colab** to simulate two cases of operations in CUDA:
+We will use Google Colab to simulate the following operations in CUDA:
 
-1. **Vector Addition**: We will perform the addition of two vectors to observe the efficiency and performance in a parallel environment.
-2. **Matrix Multiplication**: We will implement the multiplication of two matrices and analyze CUDA's behavior with respect to high-volume operation execution.
+**Vector Addition**: We will perform the addition of two vectors to observe the efficiency and performance in a parallel environment.
 
-These cases will help us evaluate the **performance** of CUDA in basic operations and validate the improvements compared to a sequential approach.
+**Matrix Multiplication**: We will implement the multiplication of two matrices, evaluating the performance using CUDA's shared memory to compare CUDA vs GPU vs GPU with shared memory, analyzing the execution efficiency.
+
+**Mandelbrot Set Calculation**: We will evaluate the performance of generating a Mandelbrot set using three different methods:
+- Python (sequential approach)
+- Numba with JIT (Just-In-Time Compilation)
+- Numba with CUDA (GPU acceleration)
+
+These cases will help us evaluate the performance of CUDA in basic operations and validate the improvements compared to a sequential approach.
 
   </div>
 
