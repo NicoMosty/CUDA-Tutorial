@@ -31,8 +31,8 @@ Parallelization on CPUs typically involves threads that execute instructions ind
 $$ {hide|1|2}{at:'2'}
 Independent=
 \begin{cases}
-X[i] &= W[i] + B[i] \\ 
-X[j] &= W[j] + B[j] 
+X[i] &= Y[i] * N[i] + B[i] \\ 
+X[j] &= Y[j] * N[j] + B[j]
 \end{cases}
 $$
 </div>
@@ -237,9 +237,8 @@ int main()
 [🔴]{v-click="[8]" style="position: absolute; top: 180px; left: 530px;"}
 [🔵]{v-click="[8]" style="position: absolute; top: 200px; left: 530px;"}
 
-[🔴]{v-click="[9]" style="position: absolute; top: 265px; left: 740px;"}
-[🔵]{v-click="[9]" style="position: absolute; top: 265px; left: 800px;"}
-
+[🔵]{v-click="[9]" style="position: absolute; top: 265px; left: 740px;"}
+[🔴]{v-click="[9]" style="position: absolute; top: 265px; left: 800px;"}
 
 <div v-click="[10,13]" style="position: absolute; top: 25%; left: 5%; width: 45%; border: 1px solid #ccc; padding: 5px; text-align: center;">
     <h3>Post-processing</h3>
@@ -348,10 +347,10 @@ The formula above calculates a unique index for each thread in the entire grid. 
 
 For example, if you have 2 blocks with 2 threads each, the threads will be indexed from 0 to 3 as follows:
 
-    Block 0, Thread 0: i = 0 * 4 + 0 = 0
-    Block 0, Thread 1: i = 0 * 4 + 1 = 1
-    Block 1, Thread 0: i = 0 * 4 + 2 = 2
-    Block 1, Thread 1: i = 0 * 4 + 3 = 3
+    Block 0, Thread 0: i = 0 * 2 + 0 = 0
+    Block 0, Thread 1: i = 0 * 2 + 1 = 1
+    Block 1, Thread 0: i = 0 * 2 + 0 = 2
+    Block 1, Thread 1: i = 0 * 2 + 1 = 3
 
 </div>
 
